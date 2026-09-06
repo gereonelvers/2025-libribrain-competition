@@ -11,9 +11,9 @@
       "rank": 1,
       "teamId": 16739385,
       "team": "Varshith Madishetty",
-      "score": 0.719,
-      "submissions": 65,
-      "lastSubmission": "2026-09-05T15:23:21.300Z",
+      "score": 0.7265,
+      "submissions": 72,
+      "lastSubmission": "2026-09-06T05:46:40.953Z",
       "members": []
     },
     {
@@ -102,8 +102,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.65634,
-      "submissions": 14,
-      "lastSubmission": "2026-09-05T15:00:17.283Z",
+      "submissions": 21,
+      "lastSubmission": "2026-09-06T05:58:14.827Z",
       "members": []
     },
     {
@@ -261,6 +261,15 @@
     },
     {
       "rank": 29,
+      "teamId": 16708216,
+      "team": "AutoDecode",
+      "score": 0.33378,
+      "submissions": 17,
+      "lastSubmission": "2026-09-06T05:15:32.920Z",
+      "members": []
+    },
+    {
+      "rank": 30,
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.33222,
@@ -269,21 +278,12 @@
       "members": []
     },
     {
-      "rank": 30,
+      "rank": 31,
       "teamId": 16782624,
       "team": "Jun Jie Li",
       "score": 0.31765,
       "submissions": 12,
       "lastSubmission": "2026-08-30T17:02:55.297Z",
-      "members": []
-    },
-    {
-      "rank": 31,
-      "teamId": 16708216,
-      "team": "AutoDecode",
-      "score": 0.30805,
-      "submissions": 12,
-      "lastSubmission": "2026-09-05T12:09:48.827Z",
       "members": []
     },
     {
@@ -379,11 +379,11 @@
   ],
   "totals": {
     "teams": 41,
-    "submissions": 1323,
-    "best": 0.719,
+    "submissions": 1342,
+    "best": 0.7265,
     "median": 0.62963,
-    "p25": 0.30805,
+    "p25": 0.31765,
     "p75": 0.65634
   },
-  "fetchedAt": "2026-09-06T01:27:18.367Z"
+  "fetchedAt": "2026-09-06T06:11:07.189Z"
 }
