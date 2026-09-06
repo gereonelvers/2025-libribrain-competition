@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-05T22:05:50.655Z",
+  "updatedAt": "2026-09-06T01:26:24.786Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -30,8 +30,8 @@
     {
       "teamId": 16685441,
       "team": "titus fisher",
-      "submissions": 99,
-      "scoredSubmissions": 99,
+      "submissions": 101,
+      "scoredSubmissions": 101,
       "kagglePublicBest": 0.71732,
       "best": {
         "balacc@10": {
@@ -44,7 +44,7 @@
           "value": 1.1174951833859403
         }
       },
-      "lastSubmission": "2026-09-05T03:59:08.270Z",
+      "lastSubmission": "2026-09-06T01:09:33.117Z",
       "rank": 2
     },
     {
@@ -70,8 +70,8 @@
     {
       "teamId": 16553979,
       "team": "MindLink",
-      "submissions": 118,
-      "scoredSubmissions": 118,
+      "submissions": 121,
+      "scoredSubmissions": 121,
       "kagglePublicBest": 0.71117,
       "best": {
         "balacc@10": {
@@ -84,14 +84,14 @@
           "value": 1.1264681036951494
         }
       },
-      "lastSubmission": "2026-09-05T00:08:35.653Z",
+      "lastSubmission": "2026-09-06T00:05:53.560Z",
       "rank": 4
     },
     {
       "teamId": 16779211,
       "team": "ottietjesesakfs",
-      "submissions": 100,
-      "scoredSubmissions": 100,
+      "submissions": 110,
+      "scoredSubmissions": 110,
       "kagglePublicBest": 0.71036,
       "best": {
         "balacc@10": {
@@ -101,10 +101,10 @@
           "value": 0.25866738816738816
         },
         "ovmi": {
-          "value": 1.1408487520370514
+          "value": 1.159094023043524
         }
       },
-      "lastSubmission": "2026-09-05T01:18:31.830Z",
+      "lastSubmission": "2026-09-06T00:43:09.320Z",
       "rank": 5
     },
     {
