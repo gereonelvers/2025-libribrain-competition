@@ -54,6 +54,15 @@
     },
     {
       "rank": 6,
+      "teamId": 16781245,
+      "team": "Connor Finnerty",
+      "score": 0.6898,
+      "submissions": 38,
+      "lastSubmission": "2026-09-06T12:36:48.347Z",
+      "members": []
+    },
+    {
+      "rank": 7,
       "teamId": 16790901,
       "team": "Infera-Neuro",
       "score": 0.67862,
@@ -62,16 +71,16 @@
       "members": []
     },
     {
-      "rank": 7,
+      "rank": 8,
       "teamId": 16636411,
       "team": "Kim",
       "score": 0.67517,
-      "submissions": 82,
-      "lastSubmission": "2026-09-06T06:47:09.847Z",
+      "submissions": 84,
+      "lastSubmission": "2026-09-06T12:19:25.927Z",
       "members": []
     },
     {
-      "rank": 8,
+      "rank": 9,
       "teamId": 16781466,
       "team": "Munich Logic Lab",
       "score": 0.67293,
@@ -80,7 +89,7 @@
       "members": []
     },
     {
-      "rank": 9,
+      "rank": 10,
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.66943,
@@ -89,21 +98,12 @@
       "members": []
     },
     {
-      "rank": 10,
+      "rank": 11,
       "teamId": 16754648,
       "team": "CWBZ",
       "score": 0.6601,
       "submissions": 33,
       "lastSubmission": "2026-09-03T08:48:42.743Z",
-      "members": []
-    },
-    {
-      "rank": 11,
-      "teamId": 16781245,
-      "team": "Connor Finnerty",
-      "score": 0.65898,
-      "submissions": 33,
-      "lastSubmission": "2026-09-06T10:01:38.157Z",
       "members": []
     },
     {
@@ -218,9 +218,9 @@
       "rank": 24,
       "teamId": 16809002,
       "team": "duck2bin2",
-      "score": 0.53856,
-      "submissions": 1,
-      "lastSubmission": "2026-09-05T20:21:40.407Z",
+      "score": 0.55538,
+      "submissions": 2,
+      "lastSubmission": "2026-09-06T12:07:19.053Z",
       "members": []
     },
     {
@@ -379,11 +379,11 @@
   ],
   "totals": {
     "teams": 41,
-    "submissions": 1351,
+    "submissions": 1359,
     "best": 0.7265,
     "median": 0.62963,
     "p25": 0.31765,
-    "p75": 0.65898
+    "p75": 0.6601
   },
-  "fetchedAt": "2026-09-06T10:50:52.638Z"
+  "fetchedAt": "2026-09-06T13:50:06.590Z"
 }

@@ -11,9 +11,9 @@
       "rank": 1,
       "teamId": 16692669,
       "team": "Varshith Madishetty",
-      "score": 0.72303,
-      "submissions": 146,
-      "lastSubmission": "2026-09-06T06:15:53.743Z",
+      "score": 0.72429,
+      "submissions": 150,
+      "lastSubmission": "2026-09-06T12:58:47.713Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16781247,
       "team": "Connor Finnerty",
       "score": 0.639,
-      "submissions": 16,
-      "lastSubmission": "2026-09-05T18:56:10.237Z",
+      "submissions": 20,
+      "lastSubmission": "2026-09-06T12:49:29.507Z",
       "members": []
     },
     {
@@ -172,11 +172,11 @@
   ],
   "totals": {
     "teams": 18,
-    "submissions": 553,
-    "best": 0.72303,
+    "submissions": 561,
+    "best": 0.72429,
     "median": 0.60942,
     "p25": 0.25803,
     "p75": 0.64219
   },
-  "fetchedAt": "2026-09-06T10:50:52.638Z"
+  "fetchedAt": "2026-09-06T13:50:06.590Z"
 }
