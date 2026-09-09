@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-09T16:01:44.023Z",
+  "updatedAt": "2026-09-09T19:15:55.629Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -28,6 +28,26 @@
       "rank": 1
     },
     {
+      "teamId": 16553979,
+      "team": "MindLink",
+      "submissions": 158,
+      "scoredSubmissions": 158,
+      "kagglePublicBest": 0.72117,
+      "best": {
+        "balacc@10": {
+          "value": 0.72117
+        },
+        "balacc@1": {
+          "value": 0.25385858585858584
+        },
+        "ovmi": {
+          "value": 1.1264681036951494
+        }
+      },
+      "lastSubmission": "2026-09-09T17:17:05.673Z",
+      "rank": 2
+    },
+    {
       "teamId": 16685441,
       "team": "titus fisher",
       "submissions": 101,
@@ -45,7 +65,7 @@
         }
       },
       "lastSubmission": "2026-09-06T01:09:33.117Z",
-      "rank": 2
+      "rank": 3
     },
     {
       "teamId": 16667929,
@@ -65,26 +85,6 @@
         }
       },
       "lastSubmission": "2026-09-01T09:03:49.560Z",
-      "rank": 3
-    },
-    {
-      "teamId": 16553979,
-      "team": "MindLink",
-      "submissions": 152,
-      "scoredSubmissions": 152,
-      "kagglePublicBest": 0.71117,
-      "best": {
-        "balacc@10": {
-          "value": 0.71117
-        },
-        "balacc@1": {
-          "value": 0.25385858585858584
-        },
-        "ovmi": {
-          "value": 1.1264681036951494
-        }
-      },
-      "lastSubmission": "2026-09-09T15:21:18.253Z",
       "rank": 4
     },
     {
@@ -450,8 +450,8 @@
     {
       "teamId": 16771979,
       "team": "Artem Blanar",
-      "submissions": 41,
-      "scoredSubmissions": 40,
+      "submissions": 42,
+      "scoredSubmissions": 41,
       "kagglePublicBest": 0.58963,
       "best": {
         "balacc@10": {
@@ -464,7 +464,7 @@
           "value": 1.0055698765402903
         }
       },
-      "lastSubmission": "2026-09-09T14:30:05.370Z",
+      "lastSubmission": "2026-09-09T16:43:02.603Z",
       "rank": 23
     },
     {
