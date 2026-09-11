@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-11T03:23:46.459Z",
+  "updatedAt": "2026-09-11T08:13:41.156Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -690,8 +690,8 @@
     {
       "teamId": 16606355,
       "team": "Salsinats",
-      "submissions": 9,
-      "scoredSubmissions": 9,
+      "submissions": 10,
+      "scoredSubmissions": 10,
       "kagglePublicBest": 0.28835,
       "best": {
         "balacc@10": {
@@ -704,7 +704,7 @@
           "value": 0.5788398832143227
         }
       },
-      "lastSubmission": "2026-09-07T19:23:14.653Z",
+      "lastSubmission": "2026-09-11T07:09:01.260Z",
       "rank": 35
     },
     {
