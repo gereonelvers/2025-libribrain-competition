@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-09-12T03:29:27.912Z",
+  "updatedAt": "2026-09-12T17:50:05.231Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -383,6 +383,23 @@
       },
       "lastSubmission": "2026-08-05T15:38:34.470Z",
       "rank": 19
+    },
+    {
+      "teamId": 16881690,
+      "team": "Srinivas Calindi",
+      "submissions": 1,
+      "scoredSubmissions": 1,
+      "kagglePublicBest": null,
+      "best": {
+        "balacc@1": {
+          "value": 0.02
+        },
+        "ovmi": {
+          "value": 0
+        }
+      },
+      "lastSubmission": "2026-09-12T17:08:17.783Z",
+      "rank": 20
     }
   ]
 }
