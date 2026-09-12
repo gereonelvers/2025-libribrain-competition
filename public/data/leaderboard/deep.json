@@ -84,8 +84,8 @@
       "teamId": 16809002,
       "team": "noah",
       "score": 0.67549,
-      "submissions": 5,
-      "lastSubmission": "2026-09-11T23:40:51.393Z",
+      "submissions": 6,
+      "lastSubmission": "2026-09-12T13:47:23.110Z",
       "members": []
     },
     {
@@ -415,11 +415,11 @@
   ],
   "totals": {
     "teams": 45,
-    "submissions": 1562,
+    "submissions": 1563,
     "best": 0.7265,
     "median": 0.61525,
     "p25": 0.30658,
     "p75": 0.6601
   },
-  "fetchedAt": "2026-09-12T12:10:25.493Z"
+  "fetchedAt": "2026-09-12T15:32:18.955Z"
 }
