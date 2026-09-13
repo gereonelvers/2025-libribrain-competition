@@ -360,20 +360,20 @@
     },
     {
       "rank": 40,
+      "teamId": 16792950,
+      "team": "Amal Messaoud",
+      "score": 0.23738,
+      "submissions": 6,
+      "lastSubmission": "2026-09-13T11:45:13.037Z",
+      "members": []
+    },
+    {
+      "rank": 41,
       "teamId": 16792873,
       "team": "Nguyen Anh",
       "score": 0.21637,
       "submissions": 3,
       "lastSubmission": "2026-08-31T00:59:48.743Z",
-      "members": []
-    },
-    {
-      "rank": 41,
-      "teamId": 16792950,
-      "team": "Amal Messaoud",
-      "score": 0.2,
-      "submissions": 3,
-      "lastSubmission": "2026-09-12T10:55:49.207Z",
       "members": []
     },
     {
@@ -433,11 +433,11 @@
   ],
   "totals": {
     "teams": 47,
-    "submissions": 1582,
+    "submissions": 1585,
     "best": 0.7265,
     "median": 0.58963,
     "p25": 0.28856,
     "p75": 0.65822
   },
-  "fetchedAt": "2026-09-13T10:01:34.567Z"
+  "fetchedAt": "2026-09-13T14:23:34.424Z"
 }

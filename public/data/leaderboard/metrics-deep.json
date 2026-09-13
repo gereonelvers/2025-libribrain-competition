@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-13T09:59:17.799Z",
+  "updatedAt": "2026-09-13T14:23:14.578Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -788,6 +788,26 @@
       "rank": 39
     },
     {
+      "teamId": 16792950,
+      "team": "Amal Messaoud",
+      "submissions": 6,
+      "scoredSubmissions": 6,
+      "kagglePublicBest": 0.23738,
+      "best": {
+        "balacc@10": {
+          "value": 0.23738
+        },
+        "balacc@1": {
+          "value": 0.025
+        },
+        "ovmi": {
+          "value": 0.3157644711388893
+        }
+      },
+      "lastSubmission": "2026-09-13T11:45:13.037Z",
+      "rank": 40
+    },
+    {
       "teamId": 16792873,
       "team": "Nguyen Anh",
       "submissions": 3,
@@ -805,26 +825,6 @@
         }
       },
       "lastSubmission": "2026-08-31T00:59:48.743Z",
-      "rank": 40
-    },
-    {
-      "teamId": 16792950,
-      "team": "Amal Messaoud",
-      "submissions": 3,
-      "scoredSubmissions": 3,
-      "kagglePublicBest": 0.2,
-      "best": {
-        "balacc@10": {
-          "value": 0.2
-        },
-        "balacc@1": {
-          "value": 0.02
-        },
-        "ovmi": {
-          "value": 0
-        }
-      },
-      "lastSubmission": "2026-09-12T10:55:49.207Z",
       "rank": 41
     },
     {
