@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-16T16:40:50.660Z",
+  "updatedAt": "2026-09-16T19:43:08.019Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -50,21 +50,21 @@
     {
       "teamId": 16739385,
       "team": "Varshith Madishetty",
-      "submissions": 72,
-      "scoredSubmissions": 72,
+      "submissions": 82,
+      "scoredSubmissions": 82,
       "kagglePublicBest": 0.7265,
       "best": {
         "balacc@10": {
           "value": 0.7265
         },
         "balacc@1": {
-          "value": 0.28887373737373734
+          "value": 0.29137373737373734
         },
         "ovmi": {
           "value": 1.1422372240869738
         }
       },
-      "lastSubmission": "2026-09-06T05:46:40.953Z",
+      "lastSubmission": "2026-09-16T18:42:34.313Z",
       "rank": 3
     },
     {
@@ -150,8 +150,8 @@
     {
       "teamId": 16781245,
       "team": "Connor Finnerty",
-      "submissions": 77,
-      "scoredSubmissions": 77,
+      "submissions": 78,
+      "scoredSubmissions": 78,
       "kagglePublicBest": 0.69954,
       "best": {
         "balacc@10": {
@@ -164,7 +164,7 @@
           "value": 1.1444217621471164
         }
       },
-      "lastSubmission": "2026-09-15T16:29:51.980Z",
+      "lastSubmission": "2026-09-16T19:36:35.670Z",
       "rank": 8
     },
     {
@@ -670,8 +670,8 @@
     {
       "teamId": 16510893,
       "team": "MindReaders2.0",
-      "submissions": 81,
-      "scoredSubmissions": 81,
+      "submissions": 88,
+      "scoredSubmissions": 88,
       "kagglePublicBest": 0.33222,
       "best": {
         "balacc@10": {
@@ -684,7 +684,7 @@
           "value": 0.9441229570027905
         }
       },
-      "lastSubmission": "2026-09-16T09:13:58.397Z",
+      "lastSubmission": "2026-09-16T19:12:46.307Z",
       "rank": 34
     },
     {
