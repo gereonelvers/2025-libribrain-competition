@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-16T11:57:44.571Z",
+  "updatedAt": "2026-09-16T16:40:50.660Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -270,8 +270,8 @@
     {
       "teamId": 16784614,
       "team": "dav0dea",
-      "submissions": 22,
-      "scoredSubmissions": 22,
+      "submissions": 26,
+      "scoredSubmissions": 26,
       "kagglePublicBest": 0.65634,
       "best": {
         "balacc@10": {
@@ -284,7 +284,7 @@
           "value": 1.148594067477857
         }
       },
-      "lastSubmission": "2026-09-14T15:06:59.547Z",
+      "lastSubmission": "2026-09-16T14:49:45.090Z",
       "rank": 14
     },
     {
