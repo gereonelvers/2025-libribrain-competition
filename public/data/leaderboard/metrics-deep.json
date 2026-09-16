@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-16T19:43:08.019Z",
+  "updatedAt": "2026-09-16T22:22:37.292Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -848,6 +848,26 @@
       "rank": 42
     },
     {
+      "teamId": 16881692,
+      "team": "Srinivas Calindi",
+      "submissions": 4,
+      "scoredSubmissions": 4,
+      "kagglePublicBest": 0.21745,
+      "best": {
+        "balacc@10": {
+          "value": 0.21745
+        },
+        "balacc@1": {
+          "value": 0.03727777777777778
+        },
+        "ovmi": {
+          "value": 0.24973724894155835
+        }
+      },
+      "lastSubmission": "2026-09-16T20:49:39Z",
+      "rank": 43
+    },
+    {
       "teamId": 16792873,
       "team": "Nguyen Anh",
       "submissions": 3,
@@ -865,26 +885,6 @@
         }
       },
       "lastSubmission": "2026-08-31T00:59:48.743Z",
-      "rank": 43
-    },
-    {
-      "teamId": 16881692,
-      "team": "Srinivas Calindi",
-      "submissions": 2,
-      "scoredSubmissions": 2,
-      "kagglePublicBest": 0.2,
-      "best": {
-        "balacc@10": {
-          "value": 0.2
-        },
-        "balacc@1": {
-          "value": 0.02
-        },
-        "ovmi": {
-          "value": 0
-        }
-      },
-      "lastSubmission": "2026-09-12T18:37:59.947Z",
       "rank": 44
     },
     {

@@ -387,20 +387,20 @@
     },
     {
       "rank": 43,
+      "teamId": 16881692,
+      "team": "Srinivas Calindi",
+      "score": 0.21745,
+      "submissions": 4,
+      "lastSubmission": "2026-09-16T20:49:39Z",
+      "members": []
+    },
+    {
+      "rank": 44,
       "teamId": 16792873,
       "team": "Nguyen Anh",
       "score": 0.21637,
       "submissions": 3,
       "lastSubmission": "2026-08-31T00:59:48.743Z",
-      "members": []
-    },
-    {
-      "rank": 44,
-      "teamId": 16881692,
-      "team": "Srinivas Calindi",
-      "score": 0.2,
-      "submissions": 2,
-      "lastSubmission": "2026-09-12T18:37:59.947Z",
       "members": []
     },
     {
@@ -451,11 +451,11 @@
   ],
   "totals": {
     "teams": 49,
-    "submissions": 1695,
+    "submissions": 1697,
     "best": 0.74747,
     "median": 0.58963,
     "p25": 0.28713,
     "p75": 0.6601
   },
-  "fetchedAt": "2026-09-16T19:43:49.471Z"
+  "fetchedAt": "2026-09-16T22:23:27.384Z"
 }
