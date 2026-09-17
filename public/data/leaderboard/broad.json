@@ -73,7 +73,7 @@
     {
       "rank": 8,
       "teamId": 16896113,
-      "team": "Christian Buda",
+      "team": "peperonata",
       "score": 0.63699,
       "submissions": 1,
       "lastSubmission": "2026-09-15T09:51:04.060Z",
@@ -187,5 +187,5 @@
     "p25": 0.32044,
     "p75": 0.65511
   },
-  "fetchedAt": "2026-09-17T15:32:28.839Z"
+  "fetchedAt": "2026-09-17T22:20:34.256Z"
 }
