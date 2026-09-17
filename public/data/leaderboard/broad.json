@@ -38,9 +38,9 @@
       "rank": 4,
       "teamId": 16781247,
       "team": "Connor Finnerty",
-      "score": 0.6741,
-      "submissions": 44,
-      "lastSubmission": "2026-09-17T03:42:01.293Z",
+      "score": 0.7006,
+      "submissions": 49,
+      "lastSubmission": "2026-09-17T08:26:00.490Z",
       "members": []
     },
     {
@@ -181,11 +181,11 @@
   ],
   "totals": {
     "teams": 19,
-    "submissions": 714,
+    "submissions": 719,
     "best": 0.72429,
     "median": 0.62151,
     "p25": 0.32044,
     "p75": 0.65511
   },
-  "fetchedAt": "2026-09-17T05:49:23.972Z"
+  "fetchedAt": "2026-09-17T11:07:37.518Z"
 }
