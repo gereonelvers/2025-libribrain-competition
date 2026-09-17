@@ -30,8 +30,8 @@
       "teamId": 16739385,
       "team": "Varshith Madishetty",
       "score": 0.7265,
-      "submissions": 86,
-      "lastSubmission": "2026-09-17T06:19:24.737Z",
+      "submissions": 89,
+      "lastSubmission": "2026-09-17T11:55:41.780Z",
       "members": []
     },
     {
@@ -84,8 +84,8 @@
       "teamId": 16781245,
       "team": "Connor Finnerty",
       "score": 0.70621,
-      "submissions": 85,
-      "lastSubmission": "2026-09-17T08:20:58.173Z",
+      "submissions": 87,
+      "lastSubmission": "2026-09-17T13:23:59.467Z",
       "members": []
     },
     {
@@ -282,8 +282,8 @@
       "teamId": 16708216,
       "team": "AutoDecode",
       "score": 0.42301,
-      "submissions": 21,
-      "lastSubmission": "2026-09-17T01:09:04.920Z",
+      "submissions": 22,
+      "lastSubmission": "2026-09-17T14:57:29.050Z",
       "members": []
     },
     {
@@ -460,11 +460,11 @@
   ],
   "totals": {
     "teams": 50,
-    "submissions": 1718,
+    "submissions": 1724,
     "best": 0.74747,
     "median": 0.57956,
     "p25": 0.28785,
     "p75": 0.65916
   },
-  "fetchedAt": "2026-09-17T11:07:37.518Z"
+  "fetchedAt": "2026-09-17T15:32:28.839Z"
 }
