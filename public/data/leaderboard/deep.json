@@ -120,8 +120,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.66176,
-      "submissions": 42,
-      "lastSubmission": "2026-09-18T19:19:06.717Z",
+      "submissions": 47,
+      "lastSubmission": "2026-09-19T12:43:25.883Z",
       "members": []
     },
     {
@@ -264,8 +264,8 @@
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.45175,
-      "submissions": 101,
-      "lastSubmission": "2026-09-19T02:11:57.503Z",
+      "submissions": 102,
+      "lastSubmission": "2026-09-19T10:31:29.583Z",
       "members": []
     },
     {
@@ -469,11 +469,11 @@
   ],
   "totals": {
     "teams": 51,
-    "submissions": 1831,
+    "submissions": 1837,
     "best": 0.74747,
     "median": 0.58963,
     "p25": 0.28856,
     "p75": 0.66093
   },
-  "fetchedAt": "2026-09-19T09:31:01.629Z"
+  "fetchedAt": "2026-09-19T13:25:49.736Z"
 }
