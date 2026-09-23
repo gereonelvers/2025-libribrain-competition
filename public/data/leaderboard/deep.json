@@ -30,8 +30,8 @@
       "teamId": 16785989,
       "team": "Jatin Arutla",
       "score": 0.72795,
-      "submissions": 40,
-      "lastSubmission": "2026-09-23T11:08:14.587Z",
+      "submissions": 41,
+      "lastSubmission": "2026-09-23T14:49:04.120Z",
       "members": []
     },
     {
@@ -111,8 +111,8 @@
       "teamId": 16771979,
       "team": "Artem Blanar",
       "score": 0.68695,
-      "submissions": 52,
-      "lastSubmission": "2026-09-23T10:38:36.033Z",
+      "submissions": 53,
+      "lastSubmission": "2026-09-23T14:02:19.077Z",
       "members": []
     },
     {
@@ -120,8 +120,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.68626,
-      "submissions": 70,
-      "lastSubmission": "2026-09-23T01:10:03.450Z",
+      "submissions": 75,
+      "lastSubmission": "2026-09-23T16:10:17.023Z",
       "members": []
     },
     {
@@ -477,6 +477,15 @@
     },
     {
       "rank": 53,
+      "teamId": 16948753,
+      "team": "DongGua",
+      "score": 0.2,
+      "submissions": 1,
+      "lastSubmission": "2026-09-23T16:35:50.200Z",
+      "members": []
+    },
+    {
+      "rank": 54,
       "teamId": 16672981,
       "team": "Shriya Patkar",
       "score": 0.195,
@@ -485,7 +494,7 @@
       "members": []
     },
     {
-      "rank": 54,
+      "rank": 55,
       "teamId": 16605715,
       "team": "lavender_lover",
       "score": 0.19058,
@@ -494,7 +503,7 @@
       "members": []
     },
     {
-      "rank": 55,
+      "rank": 56,
       "teamId": 16726510,
       "team": "LizaSheina",
       "score": 0.18799,
@@ -503,7 +512,7 @@
       "members": []
     },
     {
-      "rank": 56,
+      "rank": 57,
       "teamId": 16678093,
       "team": "Viknesh .V",
       "score": 0.16,
@@ -513,12 +522,12 @@
     }
   ],
   "totals": {
-    "teams": 56,
-    "submissions": 2053,
+    "teams": 57,
+    "submissions": 2061,
     "best": 0.74747,
-    "median": 0.60376,
-    "p25": 0.28928,
-    "p75": 0.6725
+    "median": 0.59227,
+    "p25": 0.28713,
+    "p75": 0.67236
   },
-  "fetchedAt": "2026-09-23T11:57:34.455Z"
+  "fetchedAt": "2026-09-23T16:41:08.466Z"
 }
