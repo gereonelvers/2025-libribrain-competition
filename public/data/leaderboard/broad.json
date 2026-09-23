@@ -84,8 +84,8 @@
       "teamId": 16896113,
       "team": "peperonata",
       "score": 0.63699,
-      "submissions": 1,
-      "lastSubmission": "2026-09-15T09:51:04.060Z",
+      "submissions": 2,
+      "lastSubmission": "2026-09-23T22:31:53.803Z",
       "members": []
     },
     {
@@ -101,9 +101,9 @@
       "rank": 11,
       "teamId": 16927415,
       "team": "cfw21w2",
-      "score": 0.61053,
-      "submissions": 32,
-      "lastSubmission": "2026-09-23T10:35:49.973Z",
+      "score": 0.61056,
+      "submissions": 33,
+      "lastSubmission": "2026-09-23T20:44:07.653Z",
       "members": []
     },
     {
@@ -208,11 +208,11 @@
   ],
   "totals": {
     "teams": 22,
-    "submissions": 820,
+    "submissions": 822,
     "best": 0.72915,
-    "median": 0.60393,
+    "median": 0.60395,
     "p25": 0.25803,
     "p75": 0.64219
   },
-  "fetchedAt": "2026-09-23T11:57:34.455Z"
+  "fetchedAt": "2026-09-23T22:45:01.802Z"
 }
