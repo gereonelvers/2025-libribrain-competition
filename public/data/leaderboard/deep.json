@@ -48,8 +48,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.72125,
-      "submissions": 89,
-      "lastSubmission": "2026-09-24T23:43:48.233Z",
+      "submissions": 92,
+      "lastSubmission": "2026-09-25T05:00:04.913Z",
       "members": []
     },
     {
@@ -147,8 +147,8 @@
       "teamId": 16803215,
       "team": "peperonata",
       "score": 0.66486,
-      "submissions": 19,
-      "lastSubmission": "2026-09-25T01:19:40.543Z",
+      "submissions": 20,
+      "lastSubmission": "2026-09-25T03:01:20.317Z",
       "members": []
     },
     {
@@ -532,11 +532,11 @@
   ],
   "totals": {
     "teams": 58,
-    "submissions": 2141,
+    "submissions": 2145,
     "best": 0.74747,
     "median": 0.59013,
     "p25": 0.28785,
     "p75": 0.67091
   },
-  "fetchedAt": "2026-09-25T01:31:03.131Z"
+  "fetchedAt": "2026-09-25T06:37:49.643Z"
 }
