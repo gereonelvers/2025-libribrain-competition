@@ -48,8 +48,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.72125,
-      "submissions": 96,
-      "lastSubmission": "2026-09-25T14:59:20.293Z",
+      "submissions": 97,
+      "lastSubmission": "2026-09-25T17:32:47.100Z",
       "members": []
     },
     {
@@ -532,11 +532,11 @@
   ],
   "totals": {
     "teams": 58,
-    "submissions": 2168,
+    "submissions": 2169,
     "best": 0.74747,
     "median": 0.59013,
     "p25": 0.28785,
     "p75": 0.67638
   },
-  "fetchedAt": "2026-09-25T17:25:56.048Z"
+  "fetchedAt": "2026-09-25T20:39:38.539Z"
 }
