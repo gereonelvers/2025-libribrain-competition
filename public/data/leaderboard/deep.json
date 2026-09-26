@@ -45,20 +45,20 @@
     },
     {
       "rank": 5,
-      "teamId": 16784614,
-      "team": "dav0dea",
-      "score": 0.72125,
-      "submissions": 97,
-      "lastSubmission": "2026-09-25T17:32:47.100Z",
+      "teamId": 16553979,
+      "team": "MindLink",
+      "score": 0.72299,
+      "submissions": 173,
+      "lastSubmission": "2026-09-26T01:57:53.253Z",
       "members": []
     },
     {
       "rank": 6,
-      "teamId": 16553979,
-      "team": "MindLink",
-      "score": 0.72117,
-      "submissions": 169,
-      "lastSubmission": "2026-09-20T00:08:24.813Z",
+      "teamId": 16784614,
+      "team": "dav0dea",
+      "score": 0.72125,
+      "submissions": 98,
+      "lastSubmission": "2026-09-25T23:47:33.473Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.71876,
-      "submissions": 86,
-      "lastSubmission": "2026-09-25T22:41:41.287Z",
+      "submissions": 89,
+      "lastSubmission": "2026-09-26T00:37:15.847Z",
       "members": []
     },
     {
@@ -138,8 +138,8 @@
       "teamId": 16927504,
       "team": "cfw21w2",
       "score": 0.67753,
-      "submissions": 37,
-      "lastSubmission": "2026-09-25T00:05:26.950Z",
+      "submissions": 42,
+      "lastSubmission": "2026-09-26T01:19:55.740Z",
       "members": []
     },
     {
@@ -532,11 +532,11 @@
   ],
   "totals": {
     "teams": 58,
-    "submissions": 2176,
+    "submissions": 2189,
     "best": 0.74747,
     "median": 0.59013,
     "p25": 0.28956,
     "p75": 0.67638
   },
-  "fetchedAt": "2026-09-25T23:34:38.018Z"
+  "fetchedAt": "2026-09-26T02:01:00.459Z"
 }
