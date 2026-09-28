@@ -21,8 +21,8 @@
       "teamId": 16739385,
       "team": "Varshith Madishetty",
       "score": 0.73717,
-      "submissions": 121,
-      "lastSubmission": "2026-09-20T10:19:22.560Z",
+      "submissions": 122,
+      "lastSubmission": "2026-09-28T18:02:28.943Z",
       "members": []
     },
     {
@@ -144,6 +144,15 @@
     },
     {
       "rank": 16,
+      "teamId": 16708216,
+      "team": "Karahan Yılmazer",
+      "score": 0.67725,
+      "submissions": 37,
+      "lastSubmission": "2026-09-28T18:28:31.357Z",
+      "members": []
+    },
+    {
+      "rank": 17,
       "teamId": 16781466,
       "team": "Munich Logic Lab",
       "score": 0.67293,
@@ -152,7 +161,7 @@
       "members": []
     },
     {
-      "rank": 17,
+      "rank": 18,
       "teamId": 16803215,
       "team": "peperonata",
       "score": 0.66486,
@@ -161,7 +170,7 @@
       "members": []
     },
     {
-      "rank": 18,
+      "rank": 19,
       "teamId": 16754648,
       "team": "CWBZ",
       "score": 0.6601,
@@ -170,21 +179,12 @@
       "members": []
     },
     {
-      "rank": 19,
+      "rank": 20,
       "teamId": 16661201,
       "team": "JovanaLab",
       "score": 0.65583,
       "submissions": 26,
       "lastSubmission": "2026-08-19T04:43:11.087Z",
-      "members": []
-    },
-    {
-      "rank": 20,
-      "teamId": 16708216,
-      "team": "AutoDecode",
-      "score": 0.65495,
-      "submissions": 32,
-      "lastSubmission": "2026-09-28T14:28:54.973Z",
       "members": []
     },
     {
@@ -252,6 +252,15 @@
     },
     {
       "rank": 28,
+      "teamId": 16969296,
+      "team": "Viacheslav Fokin",
+      "score": 0.63256,
+      "submissions": 4,
+      "lastSubmission": "2026-09-28T20:03:54.537Z",
+      "members": []
+    },
+    {
+      "rank": 29,
       "teamId": 16736164,
       "team": "SENPAI",
       "score": 0.62963,
@@ -260,7 +269,16 @@
       "members": []
     },
     {
-      "rank": 29,
+      "rank": 30,
+      "teamId": 16953455,
+      "team": "NeuroMTEC",
+      "score": 0.62822,
+      "submissions": 3,
+      "lastSubmission": "2026-09-28T17:13:01.780Z",
+      "members": []
+    },
+    {
+      "rank": 31,
       "teamId": 16666931,
       "team": "onlytry",
       "score": 0.61525,
@@ -269,30 +287,12 @@
       "members": []
     },
     {
-      "rank": 30,
-      "teamId": 16953455,
-      "team": "NeuroMTEC",
-      "score": 0.60614,
-      "submissions": 2,
-      "lastSubmission": "2026-09-28T10:41:58.920Z",
-      "members": []
-    },
-    {
-      "rank": 31,
+      "rank": 32,
       "teamId": 16770046,
       "team": "Ave_Dominus_Nox",
       "score": 0.58799,
       "submissions": 23,
       "lastSubmission": "2026-09-25T08:18:16.003Z",
-      "members": []
-    },
-    {
-      "rank": 32,
-      "teamId": 16969296,
-      "team": "Viacheslav Fokin",
-      "score": 0.58064,
-      "submissions": 2,
-      "lastSubmission": "2026-09-28T01:20:15.550Z",
       "members": []
     },
     {
@@ -309,12 +309,21 @@
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.50714,
-      "submissions": 139,
-      "lastSubmission": "2026-09-28T04:51:47.977Z",
+      "submissions": 140,
+      "lastSubmission": "2026-09-28T21:02:11.607Z",
       "members": []
     },
     {
       "rank": 35,
+      "teamId": 16954606,
+      "team": "Oysta A.H",
+      "score": 0.45753,
+      "submissions": 15,
+      "lastSubmission": "2026-09-28T16:15:48.497Z",
+      "members": []
+    },
+    {
+      "rank": 36,
       "teamId": 16859154,
       "team": "bcs",
       "score": 0.45445,
@@ -323,7 +332,7 @@
       "members": []
     },
     {
-      "rank": 36,
+      "rank": 37,
       "teamId": 16928493,
       "team": "NJUersgogogo",
       "score": 0.44995,
@@ -332,7 +341,7 @@
       "members": []
     },
     {
-      "rank": 37,
+      "rank": 38,
       "teamId": 16571738,
       "team": "PNPL-OX",
       "score": 0.44441,
@@ -341,7 +350,7 @@
       "members": []
     },
     {
-      "rank": 38,
+      "rank": 39,
       "teamId": 16700843,
       "team": "kongxuan47",
       "score": 0.43935,
@@ -350,7 +359,7 @@
       "members": []
     },
     {
-      "rank": 39,
+      "rank": 40,
       "teamId": 16774953,
       "team": "Sia",
       "score": 0.43623,
@@ -359,16 +368,16 @@
       "members": []
     },
     {
-      "rank": 40,
+      "rank": 41,
       "teamId": 16606355,
       "team": "Salsinats",
       "score": 0.40325,
-      "submissions": 18,
-      "lastSubmission": "2026-09-27T09:22:48.630Z",
+      "submissions": 19,
+      "lastSubmission": "2026-09-28T18:57:18.360Z",
       "members": []
     },
     {
-      "rank": 41,
+      "rank": 42,
       "teamId": 16943902,
       "team": "Abhijith Pradeep",
       "score": 0.36723,
@@ -377,7 +386,7 @@
       "members": []
     },
     {
-      "rank": 42,
+      "rank": 43,
       "teamId": 16516410,
       "team": "Shuntaro Suzuki",
       "score": 0.354,
@@ -386,7 +395,7 @@
       "members": []
     },
     {
-      "rank": 43,
+      "rank": 44,
       "teamId": 16852752,
       "team": "liuyishj",
       "score": 0.33427,
@@ -395,7 +404,7 @@
       "members": []
     },
     {
-      "rank": 44,
+      "rank": 45,
       "teamId": 16782624,
       "team": "Jun Jie Li",
       "score": 0.31765,
@@ -404,7 +413,7 @@
       "members": []
     },
     {
-      "rank": 45,
+      "rank": 46,
       "teamId": 16968035,
       "team": "albedoweb",
       "score": 0.29034,
@@ -413,21 +422,12 @@
       "members": []
     },
     {
-      "rank": 46,
+      "rank": 47,
       "teamId": 16550910,
       "team": "monte-carlo",
       "score": 0.28999,
       "submissions": 5,
       "lastSubmission": "2026-07-25T14:13:10.917Z",
-      "members": []
-    },
-    {
-      "rank": 47,
-      "teamId": 16954606,
-      "team": "Oysta A.H",
-      "score": 0.28941,
-      "submissions": 13,
-      "lastSubmission": "2026-09-28T00:32:12.037Z",
       "members": []
     },
     {
@@ -559,11 +559,11 @@
   ],
   "totals": {
     "teams": 61,
-    "submissions": 2302,
+    "submissions": 2315,
     "best": 0.74747,
-    "median": 0.58799,
-    "p25": 0.28999,
-    "p75": 0.67293
+    "median": 0.61525,
+    "p25": 0.29034,
+    "p75": 0.67725
   },
-  "fetchedAt": "2026-09-28T15:15:51.990Z"
+  "fetchedAt": "2026-09-28T21:19:05.861Z"
 }
