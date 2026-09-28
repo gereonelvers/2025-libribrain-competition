@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-09-28T06:57:27.281Z",
+  "updatedAt": "2026-09-28T15:14:59.720Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -230,12 +230,12 @@
     {
       "teamId": 16927415,
       "team": "cfw21w2",
-      "submissions": 35,
-      "scoredSubmissions": 35,
-      "kagglePublicBest": 0.61056,
+      "submissions": 36,
+      "scoredSubmissions": 36,
+      "kagglePublicBest": 0.61313,
       "best": {
         "balacc@10": {
-          "value": 0.61056
+          "value": 0.61313
         },
         "balacc@1": {
           "value": 0.18776203426203422
@@ -244,7 +244,7 @@
           "value": 0.9479407304190383
         }
       },
-      "lastSubmission": "2026-09-25T00:07:33.963Z",
+      "lastSubmission": "2026-09-28T14:30:07.303Z",
       "rank": 12
     },
     {
@@ -270,21 +270,21 @@
     {
       "teamId": 16976079,
       "team": "langstudent",
-      "submissions": 2,
-      "scoredSubmissions": 2,
-      "kagglePublicBest": 0.54358,
+      "submissions": 4,
+      "scoredSubmissions": 4,
+      "kagglePublicBest": 0.55362,
       "best": {
         "balacc@10": {
-          "value": 0.54358
+          "value": 0.55362
         },
         "balacc@1": {
-          "value": 0.14744087394087393
+          "value": 0.1578196433196433
         },
         "ovmi": {
-          "value": 0.7293903231440972
+          "value": 0.7545140678358762
         }
       },
-      "lastSubmission": "2026-09-28T06:28:16.083Z",
+      "lastSubmission": "2026-09-28T11:39:45.683Z",
       "rank": 14
     },
     {
@@ -370,21 +370,21 @@
     {
       "teamId": 16972643,
       "team": "Arthur12212003",
-      "submissions": 4,
-      "scoredSubmissions": 4,
-      "kagglePublicBest": 0.24103,
+      "submissions": 8,
+      "scoredSubmissions": 8,
+      "kagglePublicBest": 0.24634,
       "best": {
         "balacc@10": {
-          "value": 0.24103
+          "value": 0.24634
         },
         "balacc@1": {
           "value": 0.026812409812409812
         },
         "ovmi": {
-          "value": 0.11508575810473942
+          "value": 0.11585556631419906
         }
       },
-      "lastSubmission": "2026-09-28T06:03:37.730Z",
+      "lastSubmission": "2026-09-28T15:02:25.817Z",
       "rank": 19
     },
     {

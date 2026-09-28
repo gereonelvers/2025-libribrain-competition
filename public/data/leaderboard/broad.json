@@ -110,9 +110,9 @@
       "rank": 12,
       "teamId": 16927415,
       "team": "cfw21w2",
-      "score": 0.61056,
-      "submissions": 35,
-      "lastSubmission": "2026-09-25T00:07:33.963Z",
+      "score": 0.61313,
+      "submissions": 36,
+      "lastSubmission": "2026-09-28T14:30:07.303Z",
       "members": []
     },
     {
@@ -128,9 +128,9 @@
       "rank": 14,
       "teamId": 16976079,
       "team": "langstudent",
-      "score": 0.54358,
-      "submissions": 2,
-      "lastSubmission": "2026-09-28T06:28:16.083Z",
+      "score": 0.55362,
+      "submissions": 4,
+      "lastSubmission": "2026-09-28T11:39:45.683Z",
       "members": []
     },
     {
@@ -173,9 +173,9 @@
       "rank": 19,
       "teamId": 16972643,
       "team": "Arthur12212003",
-      "score": 0.24103,
-      "submissions": 4,
-      "lastSubmission": "2026-09-28T06:03:37.730Z",
+      "score": 0.24634,
+      "submissions": 8,
+      "lastSubmission": "2026-09-28T15:02:25.817Z",
       "members": []
     },
     {
@@ -244,11 +244,11 @@
   ],
   "totals": {
     "teams": 26,
-    "submissions": 854,
+    "submissions": 861,
     "best": 0.72915,
-    "median": 0.57046,
-    "p25": 0.24073,
+    "median": 0.57548,
+    "p25": 0.24206,
     "p75": 0.64219
   },
-  "fetchedAt": "2026-09-28T06:57:48.725Z"
+  "fetchedAt": "2026-09-28T15:15:51.990Z"
 }
