@@ -12,8 +12,8 @@
       "teamId": 16636411,
       "team": "Kim",
       "score": 0.74747,
-      "submissions": 138,
-      "lastSubmission": "2026-09-28T07:00:42.463Z",
+      "submissions": 139,
+      "lastSubmission": "2026-09-29T03:34:08.557Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.71876,
-      "submissions": 102,
-      "lastSubmission": "2026-09-28T21:32:29.213Z",
+      "submissions": 104,
+      "lastSubmission": "2026-09-29T01:38:26.537Z",
       "members": []
     },
     {
@@ -255,8 +255,8 @@
       "teamId": 16969296,
       "team": "Viacheslav Fokin",
       "score": 0.63256,
-      "submissions": 6,
-      "lastSubmission": "2026-09-28T22:45:23.023Z",
+      "submissions": 7,
+      "lastSubmission": "2026-09-29T03:35:00.490Z",
       "members": []
     },
     {
@@ -309,8 +309,8 @@
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.50714,
-      "submissions": 140,
-      "lastSubmission": "2026-09-28T21:02:11.607Z",
+      "submissions": 145,
+      "lastSubmission": "2026-09-29T03:24:05.913Z",
       "members": []
     },
     {
@@ -559,11 +559,11 @@
   ],
   "totals": {
     "teams": 61,
-    "submissions": 2326,
+    "submissions": 2335,
     "best": 0.74747,
     "median": 0.61525,
     "p25": 0.29034,
     "p75": 0.67725
   },
-  "fetchedAt": "2026-09-29T01:09:15.594Z"
+  "fetchedAt": "2026-09-29T06:54:41.995Z"
 }
