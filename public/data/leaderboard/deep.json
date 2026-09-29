@@ -30,8 +30,8 @@
       "teamId": 16785989,
       "team": "Jatin Arutla",
       "score": 0.72795,
-      "submissions": 45,
-      "lastSubmission": "2026-09-27T12:59:23.213Z",
+      "submissions": 53,
+      "lastSubmission": "2026-09-28T23:58:29.770Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.71876,
-      "submissions": 101,
-      "lastSubmission": "2026-09-27T16:45:53.717Z",
+      "submissions": 102,
+      "lastSubmission": "2026-09-28T21:32:29.213Z",
       "members": []
     },
     {
@@ -255,8 +255,8 @@
       "teamId": 16969296,
       "team": "Viacheslav Fokin",
       "score": 0.63256,
-      "submissions": 4,
-      "lastSubmission": "2026-09-28T20:03:54.537Z",
+      "submissions": 6,
+      "lastSubmission": "2026-09-28T22:45:23.023Z",
       "members": []
     },
     {
@@ -559,11 +559,11 @@
   ],
   "totals": {
     "teams": 61,
-    "submissions": 2315,
+    "submissions": 2326,
     "best": 0.74747,
     "median": 0.61525,
     "p25": 0.29034,
     "p75": 0.67725
   },
-  "fetchedAt": "2026-09-28T21:19:05.861Z"
+  "fetchedAt": "2026-09-29T01:09:15.594Z"
 }
