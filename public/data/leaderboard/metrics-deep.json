@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-deep",
-  "updatedAt": "2026-09-30T01:56:55.238Z",
+  "updatedAt": "2026-09-30T08:14:37.908Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -130,8 +130,8 @@
     {
       "teamId": 16784614,
       "team": "dav0dea",
-      "submissions": 100,
-      "scoredSubmissions": 100,
+      "submissions": 105,
+      "scoredSubmissions": 105,
       "kagglePublicBest": 0.72125,
       "best": {
         "balacc@10": {
@@ -144,7 +144,7 @@
           "value": 1.1920964682271324
         }
       },
-      "lastSubmission": "2026-09-29T22:40:35.493Z",
+      "lastSubmission": "2026-09-30T03:16:40.660Z",
       "rank": 7
     },
     {
@@ -170,8 +170,8 @@
     {
       "teamId": 16779211,
       "team": "ottietjesesakfs",
-      "submissions": 250,
-      "scoredSubmissions": 250,
+      "submissions": 255,
+      "scoredSubmissions": 255,
       "kagglePublicBest": 0.71799,
       "best": {
         "balacc@10": {
@@ -184,7 +184,7 @@
           "value": 1.159094023043524
         }
       },
-      "lastSubmission": "2026-09-29T09:55:40.690Z",
+      "lastSubmission": "2026-09-30T03:00:20.443Z",
       "rank": 9
     },
     {
@@ -270,8 +270,8 @@
     {
       "teamId": 16983055,
       "team": "BNEL",
-      "submissions": 12,
-      "scoredSubmissions": 12,
+      "submissions": 15,
+      "scoredSubmissions": 15,
       "kagglePublicBest": 0.69829,
       "best": {
         "balacc@10": {
@@ -284,7 +284,7 @@
           "value": 1.1430599703861255
         }
       },
-      "lastSubmission": "2026-09-30T00:20:40.597Z",
+      "lastSubmission": "2026-09-30T06:18:30.383Z",
       "rank": 14
     },
     {
@@ -330,21 +330,21 @@
     {
       "teamId": 16791335,
       "team": "Michal",
-      "submissions": 33,
-      "scoredSubmissions": 33,
+      "submissions": 38,
+      "scoredSubmissions": 38,
       "kagglePublicBest": 0.68225,
       "best": {
         "balacc@10": {
           "value": 0.68225
         },
         "balacc@1": {
-          "value": 0.19952453102453102
+          "value": 0.24636580086580084
         },
         "ovmi": {
           "value": 1.1494764392458734
         }
       },
-      "lastSubmission": "2026-09-30T01:15:00.450Z",
+      "lastSubmission": "2026-09-30T02:16:53.597Z",
       "rank": 17
     },
     {
@@ -590,8 +590,8 @@
     {
       "teamId": 16969296,
       "team": "Viacheslav Fokin",
-      "submissions": 10,
-      "scoredSubmissions": 10,
+      "submissions": 11,
+      "scoredSubmissions": 11,
       "kagglePublicBest": 0.63256,
       "best": {
         "balacc@10": {
@@ -604,7 +604,7 @@
           "value": 1.1206290864635626
         }
       },
-      "lastSubmission": "2026-09-30T00:57:20.973Z",
+      "lastSubmission": "2026-09-30T02:14:47.293Z",
       "rank": 30
     },
     {

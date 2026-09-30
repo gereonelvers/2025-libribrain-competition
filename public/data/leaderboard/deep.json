@@ -66,8 +66,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.72125,
-      "submissions": 100,
-      "lastSubmission": "2026-09-29T22:40:35.493Z",
+      "submissions": 105,
+      "lastSubmission": "2026-09-30T03:16:40.660Z",
       "members": []
     },
     {
@@ -84,8 +84,8 @@
       "teamId": 16779211,
       "team": "ottietjesesakfs",
       "score": 0.71799,
-      "submissions": 250,
-      "lastSubmission": "2026-09-29T09:55:40.690Z",
+      "submissions": 255,
+      "lastSubmission": "2026-09-30T03:00:20.443Z",
       "members": []
     },
     {
@@ -129,8 +129,8 @@
       "teamId": 16983055,
       "team": "BNEL",
       "score": 0.69829,
-      "submissions": 12,
-      "lastSubmission": "2026-09-30T00:20:40.597Z",
+      "submissions": 15,
+      "lastSubmission": "2026-09-30T06:18:30.383Z",
       "members": []
     },
     {
@@ -156,8 +156,8 @@
       "teamId": 16791335,
       "team": "Michal",
       "score": 0.68225,
-      "submissions": 33,
-      "lastSubmission": "2026-09-30T01:15:00.450Z",
+      "submissions": 38,
+      "lastSubmission": "2026-09-30T02:16:53.597Z",
       "members": []
     },
     {
@@ -273,8 +273,8 @@
       "teamId": 16969296,
       "team": "Viacheslav Fokin",
       "score": 0.63256,
-      "submissions": 10,
-      "lastSubmission": "2026-09-30T00:57:20.973Z",
+      "submissions": 11,
+      "lastSubmission": "2026-09-30T02:14:47.293Z",
       "members": []
     },
     {
@@ -577,11 +577,11 @@
   ],
   "totals": {
     "teams": 63,
-    "submissions": 2445,
+    "submissions": 2464,
     "best": 0.75057,
     "median": 0.62963,
     "p25": 0.30382,
     "p75": 0.68232
   },
-  "fetchedAt": "2026-09-30T01:57:07.761Z"
+  "fetchedAt": "2026-09-30T08:15:35.103Z"
 }
