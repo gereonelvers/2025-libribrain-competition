@@ -75,8 +75,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.71876,
-      "submissions": 114,
-      "lastSubmission": "2026-09-30T00:14:49.797Z",
+      "submissions": 118,
+      "lastSubmission": "2026-10-01T21:35:41.493Z",
       "members": []
     },
     {
@@ -84,8 +84,8 @@
       "teamId": 16779211,
       "team": "ottietjesesakfs",
       "score": 0.71799,
-      "submissions": 266,
-      "lastSubmission": "2026-10-01T00:01:01.037Z",
+      "submissions": 267,
+      "lastSubmission": "2026-10-01T17:25:12.047Z",
       "members": []
     },
     {
@@ -102,8 +102,8 @@
       "teamId": 16771979,
       "team": "Artem Blanar",
       "score": 0.71724,
-      "submissions": 68,
-      "lastSubmission": "2026-10-01T05:55:09.637Z",
+      "submissions": 69,
+      "lastSubmission": "2026-10-01T19:22:20.360Z",
       "members": []
     },
     {
@@ -192,8 +192,8 @@
       "teamId": 16946702,
       "team": "Nova",
       "score": 0.66195,
-      "submissions": 16,
-      "lastSubmission": "2026-10-01T06:57:01.067Z",
+      "submissions": 17,
+      "lastSubmission": "2026-10-01T18:08:25.483Z",
       "members": []
     },
     {
@@ -441,6 +441,15 @@
     },
     {
       "rank": 49,
+      "teamId": 17012370,
+      "team": "Dimitar Terziev",
+      "score": 0.30663,
+      "submissions": 3,
+      "lastSubmission": "2026-10-01T21:45:33.093Z",
+      "members": []
+    },
+    {
+      "rank": 50,
       "teamId": 16550910,
       "team": "monte-carlo",
       "score": 0.28999,
@@ -449,7 +458,7 @@
       "members": []
     },
     {
-      "rank": 50,
+      "rank": 51,
       "teamId": 16726041,
       "team": "Bhargav Kowshik",
       "score": 0.28713,
@@ -458,7 +467,7 @@
       "members": []
     },
     {
-      "rank": 51,
+      "rank": 52,
       "teamId": 16790306,
       "team": "Fon1as",
       "score": 0.25381,
@@ -467,7 +476,7 @@
       "members": []
     },
     {
-      "rank": 52,
+      "rank": 53,
       "teamId": 16797123,
       "team": "willguido",
       "score": 0.24437,
@@ -476,7 +485,7 @@
       "members": []
     },
     {
-      "rank": 53,
+      "rank": 54,
       "teamId": 16894177,
       "team": "immortal2",
       "score": 0.2407,
@@ -485,7 +494,7 @@
       "members": []
     },
     {
-      "rank": 54,
+      "rank": 55,
       "teamId": 16792950,
       "team": "Amal Messaoud",
       "score": 0.23738,
@@ -494,7 +503,7 @@
       "members": []
     },
     {
-      "rank": 55,
+      "rank": 56,
       "teamId": 16881692,
       "team": "Srinivas Calindi",
       "score": 0.21745,
@@ -503,7 +512,7 @@
       "members": []
     },
     {
-      "rank": 56,
+      "rank": 57,
       "teamId": 16792873,
       "team": "Nguyen Anh",
       "score": 0.21637,
@@ -512,7 +521,7 @@
       "members": []
     },
     {
-      "rank": 57,
+      "rank": 58,
       "teamId": 16885297,
       "team": "ML Learner26",
       "score": 0.2,
@@ -521,7 +530,7 @@
       "members": []
     },
     {
-      "rank": 58,
+      "rank": 59,
       "teamId": 16880458,
       "team": "Akshat",
       "score": 0.2,
@@ -530,7 +539,7 @@
       "members": []
     },
     {
-      "rank": 59,
+      "rank": 60,
       "teamId": 16948753,
       "team": "DongGua",
       "score": 0.2,
@@ -539,7 +548,7 @@
       "members": []
     },
     {
-      "rank": 60,
+      "rank": 61,
       "teamId": 16986530,
       "team": "Athina Kanellatou ",
       "score": 0.2,
@@ -548,7 +557,7 @@
       "members": []
     },
     {
-      "rank": 61,
+      "rank": 62,
       "teamId": 16672981,
       "team": "Shriya Patkar",
       "score": 0.195,
@@ -557,7 +566,7 @@
       "members": []
     },
     {
-      "rank": 62,
+      "rank": 63,
       "teamId": 16605715,
       "team": "lavender_lover",
       "score": 0.19058,
@@ -566,7 +575,7 @@
       "members": []
     },
     {
-      "rank": 63,
+      "rank": 64,
       "teamId": 16726510,
       "team": "LizaSheina",
       "score": 0.18799,
@@ -575,7 +584,7 @@
       "members": []
     },
     {
-      "rank": 64,
+      "rank": 65,
       "teamId": 16678093,
       "team": "Viknesh .V",
       "score": 0.16,
@@ -585,12 +594,12 @@
     }
   ],
   "totals": {
-    "teams": 64,
-    "submissions": 2548,
+    "teams": 65,
+    "submissions": 2558,
     "best": 0.76507,
-    "median": 0.62244,
-    "p25": 0.31073,
-    "p75": 0.68369
+    "median": 0.61525,
+    "p25": 0.30663,
+    "p75": 0.68238
   },
-  "fetchedAt": "2026-10-01T17:22:57.791Z"
+  "fetchedAt": "2026-10-01T21:55:40.293Z"
 }
