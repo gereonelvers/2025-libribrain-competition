@@ -12,8 +12,8 @@
       "teamId": 16781466,
       "team": "Munich Logic Lab",
       "score": 0.76507,
-      "submissions": 63,
-      "lastSubmission": "2026-10-01T00:34:55.910Z",
+      "submissions": 65,
+      "lastSubmission": "2026-10-01T04:53:04.107Z",
       "members": []
     },
     {
@@ -102,8 +102,8 @@
       "teamId": 16771979,
       "team": "Artem Blanar",
       "score": 0.71724,
-      "submissions": 67,
-      "lastSubmission": "2026-09-30T15:00:17.077Z",
+      "submissions": 68,
+      "lastSubmission": "2026-10-01T05:55:09.637Z",
       "members": []
     },
     {
@@ -135,6 +135,15 @@
     },
     {
       "rank": 15,
+      "teamId": 16791335,
+      "team": "Michal",
+      "score": 0.69318,
+      "submissions": 39,
+      "lastSubmission": "2026-10-01T11:00:16.423Z",
+      "members": []
+    },
+    {
+      "rank": 16,
       "teamId": 16790901,
       "team": "Infera-Neuro",
       "score": 0.68764,
@@ -143,21 +152,12 @@
       "members": []
     },
     {
-      "rank": 16,
+      "rank": 17,
       "teamId": 16927504,
       "team": "cfw21w2",
       "score": 0.68238,
       "submissions": 59,
       "lastSubmission": "2026-09-29T23:50:36.900Z",
-      "members": []
-    },
-    {
-      "rank": 17,
-      "teamId": 16791335,
-      "team": "Michal",
-      "score": 0.68225,
-      "submissions": 38,
-      "lastSubmission": "2026-09-30T02:16:53.597Z",
       "members": []
     },
     {
@@ -192,8 +192,8 @@
       "teamId": 16946702,
       "team": "Nova",
       "score": 0.66195,
-      "submissions": 15,
-      "lastSubmission": "2026-09-30T14:42:50.140Z",
+      "submissions": 16,
+      "lastSubmission": "2026-10-01T06:57:01.067Z",
       "members": []
     },
     {
@@ -577,11 +577,11 @@
   ],
   "totals": {
     "teams": 63,
-    "submissions": 2520,
+    "submissions": 2525,
     "best": 0.76507,
     "median": 0.62963,
     "p25": 0.30382,
-    "p75": 0.68232
+    "p75": 0.68501
   },
-  "fetchedAt": "2026-10-01T04:34:41.251Z"
+  "fetchedAt": "2026-10-01T11:11:02.482Z"
 }
