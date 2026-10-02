@@ -56,9 +56,9 @@
       "rank": 6,
       "teamId": 17021305,
       "team": "dav0dea",
-      "score": 0.68781,
-      "submissions": 6,
-      "lastSubmission": "2026-10-02T18:48:13.983Z",
+      "score": 0.69768,
+      "submissions": 8,
+      "lastSubmission": "2026-10-02T19:36:59.863Z",
       "members": []
     },
     {
@@ -164,9 +164,9 @@
       "rank": 18,
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "score": 0.50563,
-      "submissions": 3,
-      "lastSubmission": "2026-10-02T18:46:34.997Z",
+      "score": 0.52443,
+      "submissions": 4,
+      "lastSubmission": "2026-10-02T19:55:27.437Z",
       "members": []
     },
     {
@@ -280,11 +280,11 @@
   ],
   "totals": {
     "teams": 30,
-    "submissions": 922,
+    "submissions": 925,
     "best": 0.72915,
     "median": 0.57548,
     "p25": 0.26231,
     "p75": 0.65296
   },
-  "fetchedAt": "2026-10-02T19:18:37.530Z"
+  "fetchedAt": "2026-10-02T23:08:56.074Z"
 }
