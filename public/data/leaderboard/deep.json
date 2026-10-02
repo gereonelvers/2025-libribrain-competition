@@ -102,8 +102,8 @@
       "teamId": 16771979,
       "team": "Artem Blanar",
       "score": 0.71724,
-      "submissions": 69,
-      "lastSubmission": "2026-10-01T19:22:20.360Z",
+      "submissions": 72,
+      "lastSubmission": "2026-10-02T12:45:45.313Z",
       "members": []
     },
     {
@@ -129,8 +129,8 @@
       "teamId": 16983055,
       "team": "BNEL",
       "score": 0.70278,
-      "submissions": 20,
-      "lastSubmission": "2026-09-30T10:48:06.010Z",
+      "submissions": 22,
+      "lastSubmission": "2026-10-02T12:16:34.647Z",
       "members": []
     },
     {
@@ -264,8 +264,8 @@
       "teamId": 17012370,
       "team": "Dimitar Terziev",
       "score": 0.63669,
-      "submissions": 8,
-      "lastSubmission": "2026-10-02T06:44:00.147Z",
+      "submissions": 12,
+      "lastSubmission": "2026-10-02T11:51:45.723Z",
       "members": []
     },
     {
@@ -324,6 +324,15 @@
     },
     {
       "rank": 36,
+      "teamId": 16685400,
+      "team": "saharacamel",
+      "score": 0.58023,
+      "submissions": 11,
+      "lastSubmission": "2026-10-02T12:15:05.357Z",
+      "members": []
+    },
+    {
+      "rank": 37,
       "teamId": 16789752,
       "team": "syouya tobita",
       "score": 0.56585,
@@ -332,7 +341,7 @@
       "members": []
     },
     {
-      "rank": 37,
+      "rank": 38,
       "teamId": 16954606,
       "team": "Oysta A.H",
       "score": 0.55869,
@@ -341,7 +350,7 @@
       "members": []
     },
     {
-      "rank": 38,
+      "rank": 39,
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.50714,
@@ -350,7 +359,7 @@
       "members": []
     },
     {
-      "rank": 39,
+      "rank": 40,
       "teamId": 16859154,
       "team": "bcs",
       "score": 0.45445,
@@ -359,7 +368,7 @@
       "members": []
     },
     {
-      "rank": 40,
+      "rank": 41,
       "teamId": 16928493,
       "team": "NJUersgogogo",
       "score": 0.44995,
@@ -368,7 +377,7 @@
       "members": []
     },
     {
-      "rank": 41,
+      "rank": 42,
       "teamId": 16571738,
       "team": "PNPL-OX",
       "score": 0.44441,
@@ -377,7 +386,7 @@
       "members": []
     },
     {
-      "rank": 42,
+      "rank": 43,
       "teamId": 16700843,
       "team": "kongxuan47",
       "score": 0.43935,
@@ -386,7 +395,7 @@
       "members": []
     },
     {
-      "rank": 43,
+      "rank": 44,
       "teamId": 16774953,
       "team": "Sia",
       "score": 0.43623,
@@ -395,21 +404,12 @@
       "members": []
     },
     {
-      "rank": 44,
+      "rank": 45,
       "teamId": 16606355,
       "team": "Salsinats",
       "score": 0.40325,
       "submissions": 19,
       "lastSubmission": "2026-09-28T18:57:18.360Z",
-      "members": []
-    },
-    {
-      "rank": 45,
-      "teamId": 16685400,
-      "team": "saharacamel",
-      "score": 0.38024,
-      "submissions": 3,
-      "lastSubmission": "2026-10-01T12:26:51.070Z",
       "members": []
     },
     {
@@ -595,11 +595,11 @@
   ],
   "totals": {
     "teams": 65,
-    "submissions": 2588,
+    "submissions": 2605,
     "best": 0.76507,
     "median": 0.62963,
     "p25": 0.31765,
     "p75": 0.68238
   },
-  "fetchedAt": "2026-10-02T07:20:13.415Z"
+  "fetchedAt": "2026-10-02T14:01:12.418Z"
 }
