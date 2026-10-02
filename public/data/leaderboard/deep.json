@@ -12,8 +12,8 @@
       "teamId": 16781466,
       "team": "Munich Logic Lab",
       "score": 0.76507,
-      "submissions": 65,
-      "lastSubmission": "2026-10-01T04:53:04.107Z",
+      "submissions": 66,
+      "lastSubmission": "2026-10-02T00:03:03.150Z",
       "members": []
     },
     {
@@ -39,8 +39,8 @@
       "teamId": 16785989,
       "team": "Jatin Arutla",
       "score": 0.72982,
-      "submissions": 68,
-      "lastSubmission": "2026-09-30T01:02:23.710Z",
+      "submissions": 72,
+      "lastSubmission": "2026-10-01T23:28:10.900Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16784614,
       "team": "dav0dea",
       "score": 0.72125,
-      "submissions": 116,
-      "lastSubmission": "2026-10-01T01:28:19.497Z",
+      "submissions": 118,
+      "lastSubmission": "2026-10-02T00:52:55.777Z",
       "members": []
     },
     {
@@ -75,8 +75,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.71876,
-      "submissions": 118,
-      "lastSubmission": "2026-10-01T21:35:41.493Z",
+      "submissions": 122,
+      "lastSubmission": "2026-10-02T01:18:52.707Z",
       "members": []
     },
     {
@@ -84,8 +84,8 @@
       "teamId": 16779211,
       "team": "ottietjesesakfs",
       "score": 0.71799,
-      "submissions": 267,
-      "lastSubmission": "2026-10-01T17:25:12.047Z",
+      "submissions": 272,
+      "lastSubmission": "2026-10-02T00:57:57.597Z",
       "members": []
     },
     {
@@ -396,6 +396,15 @@
     },
     {
       "rank": 44,
+      "teamId": 17012370,
+      "team": "Dimitar Terziev",
+      "score": 0.38496,
+      "submissions": 5,
+      "lastSubmission": "2026-10-01T22:56:22.600Z",
+      "members": []
+    },
+    {
+      "rank": 45,
       "teamId": 16685400,
       "team": "saharacamel",
       "score": 0.38024,
@@ -404,7 +413,7 @@
       "members": []
     },
     {
-      "rank": 45,
+      "rank": 46,
       "teamId": 16943902,
       "team": "Abhijith Pradeep",
       "score": 0.36723,
@@ -413,7 +422,7 @@
       "members": []
     },
     {
-      "rank": 46,
+      "rank": 47,
       "teamId": 16516410,
       "team": "Shuntaro Suzuki",
       "score": 0.354,
@@ -422,7 +431,7 @@
       "members": []
     },
     {
-      "rank": 47,
+      "rank": 48,
       "teamId": 16852752,
       "team": "liuyishj",
       "score": 0.33427,
@@ -431,21 +440,12 @@
       "members": []
     },
     {
-      "rank": 48,
+      "rank": 49,
       "teamId": 16782624,
       "team": "Jun Jie Li",
       "score": 0.31765,
       "submissions": 12,
       "lastSubmission": "2026-08-30T17:02:55.297Z",
-      "members": []
-    },
-    {
-      "rank": 49,
-      "teamId": 17012370,
-      "team": "Dimitar Terziev",
-      "score": 0.30663,
-      "submissions": 3,
-      "lastSubmission": "2026-10-01T21:45:33.093Z",
       "members": []
     },
     {
@@ -595,11 +595,11 @@
   ],
   "totals": {
     "teams": 65,
-    "submissions": 2558,
+    "submissions": 2576,
     "best": 0.76507,
     "median": 0.61525,
-    "p25": 0.30663,
+    "p25": 0.31765,
     "p75": 0.68238
   },
-  "fetchedAt": "2026-10-01T21:55:40.293Z"
+  "fetchedAt": "2026-10-02T01:21:43.870Z"
 }
