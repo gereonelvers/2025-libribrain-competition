@@ -57,8 +57,8 @@
       "teamId": 16781247,
       "team": "Connor Finnerty",
       "score": 0.7006,
-      "submissions": 54,
-      "lastSubmission": "2026-09-25T00:36:20.340Z",
+      "submissions": 61,
+      "lastSubmission": "2026-10-03T19:51:22.840Z",
       "members": []
     },
     {
@@ -147,12 +147,21 @@
       "teamId": 17023300,
       "team": "snute220905",
       "score": 0.57298,
-      "submissions": 6,
-      "lastSubmission": "2026-10-03T11:36:11.117Z",
+      "submissions": 7,
+      "lastSubmission": "2026-10-03T19:26:12.090Z",
       "members": []
     },
     {
       "rank": 17,
+      "teamId": 17021316,
+      "team": "Dimitar Terziev",
+      "score": 0.56927,
+      "submissions": 9,
+      "lastSubmission": "2026-10-03T19:30:07.717Z",
+      "members": []
+    },
+    {
+      "rank": 18,
       "teamId": 16976079,
       "team": "langstudent",
       "score": 0.55362,
@@ -161,21 +170,12 @@
       "members": []
     },
     {
-      "rank": 18,
+      "rank": 19,
       "teamId": 16794004,
       "team": "Sia",
       "score": 0.54318,
       "submissions": 2,
       "lastSubmission": "2026-08-31T08:20:32.163Z",
-      "members": []
-    },
-    {
-      "rank": 19,
-      "teamId": 17021316,
-      "team": "Dimitar Terziev",
-      "score": 0.52443,
-      "submissions": 4,
-      "lastSubmission": "2026-10-02T19:55:27.437Z",
       "members": []
     },
     {
@@ -289,11 +289,11 @@
   ],
   "totals": {
     "teams": 31,
-    "submissions": 943,
+    "submissions": 956,
     "best": 0.72915,
     "median": 0.57298,
     "p25": 0.27829,
     "p75": 0.64961
   },
-  "fetchedAt": "2026-10-03T17:17:47.482Z"
+  "fetchedAt": "2026-10-03T20:05:27.215Z"
 }
