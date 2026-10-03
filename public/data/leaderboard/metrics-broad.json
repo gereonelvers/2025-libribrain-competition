@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-10-03T07:52:51.031Z",
+  "updatedAt": "2026-10-03T13:05:21.752Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -308,6 +308,26 @@
       "rank": 15
     },
     {
+      "teamId": 17023300,
+      "team": "snute220905",
+      "submissions": 6,
+      "scoredSubmissions": 6,
+      "kagglePublicBest": 0.57298,
+      "best": {
+        "balacc@10": {
+          "value": 0.57298
+        },
+        "balacc@1": {
+          "value": 0.1804462759462759
+        },
+        "ovmi": {
+          "value": 0.7454807890744708
+        }
+      },
+      "lastSubmission": "2026-10-03T11:36:11.117Z",
+      "rank": 16
+    },
+    {
       "teamId": 16976079,
       "team": "langstudent",
       "submissions": 5,
@@ -325,7 +345,7 @@
         }
       },
       "lastSubmission": "2026-09-28T15:34:47.530Z",
-      "rank": 16
+      "rank": 17
     },
     {
       "teamId": 16794004,
@@ -345,7 +365,7 @@
         }
       },
       "lastSubmission": "2026-08-31T08:20:32.163Z",
-      "rank": 17
+      "rank": 18
     },
     {
       "teamId": 17021316,
@@ -365,7 +385,7 @@
         }
       },
       "lastSubmission": "2026-10-02T19:55:27.437Z",
-      "rank": 18
+      "rank": 19
     },
     {
       "teamId": 16906911,
@@ -385,26 +405,6 @@
         }
       },
       "lastSubmission": "2026-10-03T07:24:48.087Z",
-      "rank": 19
-    },
-    {
-      "teamId": 17023300,
-      "team": "snute220905",
-      "submissions": 2,
-      "scoredSubmissions": 2,
-      "kagglePublicBest": 0.47149,
-      "best": {
-        "balacc@10": {
-          "value": 0.47149
-        },
-        "balacc@1": {
-          "value": 0.09244329744329742
-        },
-        "ovmi": {
-          "value": 0.4126540047589927
-        }
-      },
-      "lastSubmission": "2026-10-03T07:33:06.997Z",
       "rank": 20
     },
     {
