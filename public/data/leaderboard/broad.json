@@ -48,8 +48,8 @@
       "teamId": 16779203,
       "team": "ottietjesesakfs",
       "score": 0.70899,
-      "submissions": 265,
-      "lastSubmission": "2026-10-04T06:31:50.860Z",
+      "submissions": 268,
+      "lastSubmission": "2026-10-04T11:16:53.077Z",
       "members": []
     },
     {
@@ -57,17 +57,17 @@
       "teamId": 16781247,
       "team": "Connor Finnerty",
       "score": 0.7006,
-      "submissions": 61,
-      "lastSubmission": "2026-10-03T19:51:22.840Z",
+      "submissions": 62,
+      "lastSubmission": "2026-10-04T08:59:29.830Z",
       "members": []
     },
     {
       "rank": 7,
       "teamId": 17029831,
       "team": "Jarod Lévy",
-      "score": 0.67967,
-      "submissions": 1,
-      "lastSubmission": "2026-10-04T08:21:41.987Z",
+      "score": 0.68573,
+      "submissions": 8,
+      "lastSubmission": "2026-10-04T14:39:14.360Z",
       "members": []
     },
     {
@@ -252,6 +252,15 @@
     },
     {
       "rank": 28,
+      "teamId": 17029893,
+      "team": "Akbar Permana",
+      "score": 0.23285,
+      "submissions": 1,
+      "lastSubmission": "2026-10-04T09:43:19.170Z",
+      "members": []
+    },
+    {
+      "rank": 29,
       "teamId": 16571080,
       "team": "SajanKr",
       "score": 0.23089,
@@ -260,7 +269,7 @@
       "members": []
     },
     {
-      "rank": 29,
+      "rank": 30,
       "teamId": 16986637,
       "team": "Ethan",
       "score": 0.22637,
@@ -269,7 +278,7 @@
       "members": []
     },
     {
-      "rank": 30,
+      "rank": 31,
       "teamId": 16726042,
       "team": "Bhargav Kowshik",
       "score": 0.21871,
@@ -278,7 +287,16 @@
       "members": []
     },
     {
-      "rank": 31,
+      "rank": 32,
+      "teamId": 17027053,
+      "team": "Hojun Yang",
+      "score": 0.21317,
+      "submissions": 2,
+      "lastSubmission": "2026-10-04T10:55:09.687Z",
+      "members": []
+    },
+    {
+      "rank": 33,
       "teamId": 16580487,
       "team": "Pratik Pattanaik",
       "score": 0.20141,
@@ -287,7 +305,7 @@
       "members": []
     },
     {
-      "rank": 32,
+      "rank": 34,
       "teamId": 16941809,
       "team": "InformaBook2",
       "score": 0.2,
@@ -297,12 +315,12 @@
     }
   ],
   "totals": {
-    "teams": 32,
-    "submissions": 981,
+    "teams": 34,
+    "submissions": 995,
     "best": 0.72915,
-    "median": 0.58516,
-    "p25": 0.29426,
-    "p75": 0.65906
+    "median": 0.57113,
+    "p25": 0.24319,
+    "p75": 0.65355
   },
-  "fetchedAt": "2026-10-04T08:48:59.302Z"
+  "fetchedAt": "2026-10-04T14:40:50.856Z"
 }
