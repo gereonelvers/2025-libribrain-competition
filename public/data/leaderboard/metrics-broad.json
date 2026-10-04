@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-10-04T14:40:26.760Z",
+  "updatedAt": "2026-10-04T18:22:36.720Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -30,8 +30,8 @@
     {
       "teamId": 17021305,
       "team": "dav0dea",
-      "submissions": 27,
-      "scoredSubmissions": 27,
+      "submissions": 28,
+      "scoredSubmissions": 28,
       "kagglePublicBest": 0.72021,
       "best": {
         "balacc@10": {
@@ -44,7 +44,7 @@
           "value": 1.1690200929635908
         }
       },
-      "lastSubmission": "2026-10-04T03:30:32.200Z",
+      "lastSubmission": "2026-10-04T17:08:57.050Z",
       "rank": 2
     },
     {
@@ -130,21 +130,21 @@
     {
       "teamId": 17029831,
       "team": "Jarod Lévy",
-      "submissions": 8,
-      "scoredSubmissions": 8,
-      "kagglePublicBest": 0.68573,
+      "submissions": 10,
+      "scoredSubmissions": 10,
+      "kagglePublicBest": 0.68865,
       "best": {
         "balacc@10": {
-          "value": 0.68573
+          "value": 0.68865
         },
         "balacc@1": {
-          "value": 0.2642779072779073
+          "value": 0.26707135457135456
         },
         "ovmi": {
           "value": 0.9425889480850309
         }
       },
-      "lastSubmission": "2026-10-04T14:39:14.360Z",
+      "lastSubmission": "2026-10-04T15:10:28.127Z",
       "rank": 7
     },
     {

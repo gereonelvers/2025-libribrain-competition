@@ -27,20 +27,20 @@
     },
     {
       "rank": 3,
+      "teamId": 16784614,
+      "team": "dav0dea",
+      "score": 0.74437,
+      "submissions": 138,
+      "lastSubmission": "2026-10-04T17:52:53.633Z",
+      "members": []
+    },
+    {
+      "rank": 4,
       "teamId": 16739385,
       "team": "Varshith Madishetty",
       "score": 0.73717,
       "submissions": 122,
       "lastSubmission": "2026-09-28T18:02:28.943Z",
-      "members": []
-    },
-    {
-      "rank": 4,
-      "teamId": 16784614,
-      "team": "dav0dea",
-      "score": 0.73504,
-      "submissions": 134,
-      "lastSubmission": "2026-10-04T03:08:44.530Z",
       "members": []
     },
     {
@@ -66,8 +66,8 @@
       "teamId": 16553979,
       "team": "MindLink",
       "score": 0.72866,
-      "submissions": 221,
-      "lastSubmission": "2026-10-04T14:33:46.860Z",
+      "submissions": 226,
+      "lastSubmission": "2026-10-04T14:46:19.837Z",
       "members": []
     },
     {
@@ -84,8 +84,8 @@
       "teamId": 17021214,
       "team": "Jarod Lévy",
       "score": 0.72092,
-      "submissions": 10,
-      "lastSubmission": "2026-10-04T14:29:10.913Z",
+      "submissions": 17,
+      "lastSubmission": "2026-10-04T14:49:30.553Z",
       "members": []
     },
     {
@@ -192,8 +192,8 @@
       "teamId": 16708216,
       "team": "Karahan Yılmazer",
       "score": 0.68088,
-      "submissions": 60,
-      "lastSubmission": "2026-10-04T00:03:05.647Z",
+      "submissions": 67,
+      "lastSubmission": "2026-10-04T15:54:28.593Z",
       "members": []
     },
     {
@@ -201,8 +201,8 @@
       "teamId": 17022110,
       "team": "linkai peng",
       "score": 0.6701,
-      "submissions": 12,
-      "lastSubmission": "2026-10-03T22:40:21.197Z",
+      "submissions": 14,
+      "lastSubmission": "2026-10-04T16:18:30.230Z",
       "members": []
     },
     {
@@ -640,11 +640,11 @@
   ],
   "totals": {
     "teams": 70,
-    "submissions": 2840,
+    "submissions": 2865,
     "best": 0.76507,
     "median": 0.632,
     "p25": 0.32181,
     "p75": 0.69428
   },
-  "fetchedAt": "2026-10-04T14:40:50.856Z"
+  "fetchedAt": "2026-10-04T18:22:44.526Z"
 }
