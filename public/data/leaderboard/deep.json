@@ -57,8 +57,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.72876,
-      "submissions": 139,
-      "lastSubmission": "2026-10-03T23:03:02.120Z",
+      "submissions": 145,
+      "lastSubmission": "2026-10-04T02:05:58.523Z",
       "members": []
     },
     {
@@ -117,6 +117,15 @@
     },
     {
       "rank": 13,
+      "teamId": 17023298,
+      "team": "snute220905",
+      "score": 0.71711,
+      "submissions": 9,
+      "lastSubmission": "2026-10-04T01:06:20.320Z",
+      "members": []
+    },
+    {
+      "rank": 14,
       "teamId": 16667929,
       "team": "Umur Yıldız",
       "score": 0.7148,
@@ -125,16 +134,16 @@
       "members": []
     },
     {
-      "rank": 14,
+      "rank": 15,
       "teamId": 16781245,
       "team": "Connor Finnerty",
       "score": 0.70621,
-      "submissions": 100,
-      "lastSubmission": "2026-10-03T19:41:57.303Z",
+      "submissions": 105,
+      "lastSubmission": "2026-10-04T00:08:40.783Z",
       "members": []
     },
     {
-      "rank": 15,
+      "rank": 16,
       "teamId": 16983055,
       "team": "BNEL",
       "score": 0.70278,
@@ -143,7 +152,7 @@
       "members": []
     },
     {
-      "rank": 16,
+      "rank": 17,
       "teamId": 16791335,
       "team": "Michal",
       "score": 0.7003,
@@ -152,21 +161,12 @@
       "members": []
     },
     {
-      "rank": 17,
+      "rank": 18,
       "teamId": 16953455,
       "team": "NeuroMTEC",
       "score": 0.69649,
       "submissions": 14,
       "lastSubmission": "2026-10-03T11:26:11.467Z",
-      "members": []
-    },
-    {
-      "rank": 18,
-      "teamId": 17023298,
-      "team": "snute220905",
-      "score": 0.69488,
-      "submissions": 8,
-      "lastSubmission": "2026-10-03T14:01:18.553Z",
       "members": []
     },
     {
@@ -192,8 +192,8 @@
       "teamId": 16708216,
       "team": "Karahan Yılmazer",
       "score": 0.68088,
-      "submissions": 57,
-      "lastSubmission": "2026-10-03T18:21:01.590Z",
+      "submissions": 60,
+      "lastSubmission": "2026-10-04T00:03:05.647Z",
       "members": []
     },
     {
@@ -631,11 +631,11 @@
   ],
   "totals": {
     "teams": 69,
-    "submissions": 2770,
+    "submissions": 2785,
     "best": 0.76507,
     "median": 0.63256,
     "p25": 0.33427,
-    "p75": 0.69488
+    "p75": 0.69649
   },
-  "fetchedAt": "2026-10-03T23:05:15.022Z"
+  "fetchedAt": "2026-10-04T02:40:04.703Z"
 }
