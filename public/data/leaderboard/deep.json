@@ -12,8 +12,8 @@
       "teamId": 16781466,
       "team": "Munich Logic Lab",
       "score": 0.76507,
-      "submissions": 85,
-      "lastSubmission": "2026-10-05T23:49:18.337Z",
+      "submissions": 93,
+      "lastSubmission": "2026-10-07T21:45:55.777Z",
       "members": []
     },
     {
@@ -93,8 +93,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.72876,
-      "submissions": 161,
-      "lastSubmission": "2026-10-07T05:27:12.777Z",
+      "submissions": 162,
+      "lastSubmission": "2026-10-07T22:01:59.777Z",
       "members": []
     },
     {
@@ -183,8 +183,8 @@
       "teamId": 17022110,
       "team": "linkP",
       "score": 0.69661,
-      "submissions": 40,
-      "lastSubmission": "2026-10-07T11:13:04.890Z",
+      "submissions": 41,
+      "lastSubmission": "2026-10-07T22:15:33.010Z",
       "members": []
     },
     {
@@ -218,9 +218,9 @@
       "rank": 24,
       "teamId": 17027046,
       "team": "Hojun Yang",
-      "score": 0.67232,
-      "submissions": 7,
-      "lastSubmission": "2026-10-07T19:19:24.870Z",
+      "score": 0.67548,
+      "submissions": 10,
+      "lastSubmission": "2026-10-07T20:39:46.110Z",
       "members": []
     },
     {
@@ -228,8 +228,8 @@
       "teamId": 16510893,
       "team": "MindReaders2.0",
       "score": 0.66591,
-      "submissions": 169,
-      "lastSubmission": "2026-10-07T13:21:48.060Z",
+      "submissions": 171,
+      "lastSubmission": "2026-10-07T19:59:30.970Z",
       "members": []
     },
     {
@@ -255,8 +255,8 @@
       "teamId": 17012370,
       "team": "Dimitar Terziev",
       "score": 0.66383,
-      "submissions": 58,
-      "lastSubmission": "2026-10-07T16:09:42.527Z",
+      "submissions": 61,
+      "lastSubmission": "2026-10-07T22:10:15.360Z",
       "members": []
     },
     {
@@ -387,6 +387,15 @@
     },
     {
       "rank": 43,
+      "teamId": 17035910,
+      "team": "yu_kuo14",
+      "score": 0.62966,
+      "submissions": 12,
+      "lastSubmission": "2026-10-07T22:47:50.717Z",
+      "members": []
+    },
+    {
+      "rank": 44,
       "teamId": 16736164,
       "team": "SENPAI",
       "score": 0.62963,
@@ -395,7 +404,7 @@
       "members": []
     },
     {
-      "rank": 44,
+      "rank": 45,
       "teamId": 16499485,
       "team": "Michael Ibrahim",
       "score": 0.61916,
@@ -404,7 +413,7 @@
       "members": []
     },
     {
-      "rank": 45,
+      "rank": 46,
       "teamId": 16666931,
       "team": "onlytry",
       "score": 0.61525,
@@ -413,7 +422,7 @@
       "members": []
     },
     {
-      "rank": 46,
+      "rank": 47,
       "teamId": 16770046,
       "team": "Ave_Dominus_Nox",
       "score": 0.58799,
@@ -422,7 +431,7 @@
       "members": []
     },
     {
-      "rank": 47,
+      "rank": 48,
       "teamId": 17039022,
       "team": "OmarDotEmam",
       "score": 0.58383,
@@ -431,7 +440,7 @@
       "members": []
     },
     {
-      "rank": 48,
+      "rank": 49,
       "teamId": 16789752,
       "team": "syouya tobita",
       "score": 0.56585,
@@ -440,7 +449,7 @@
       "members": []
     },
     {
-      "rank": 49,
+      "rank": 50,
       "teamId": 16954606,
       "team": "Oysta A.H",
       "score": 0.55869,
@@ -449,7 +458,7 @@
       "members": []
     },
     {
-      "rank": 50,
+      "rank": 51,
       "teamId": 16885403,
       "team": "InverseEncoder",
       "score": 0.54276,
@@ -458,7 +467,7 @@
       "members": []
     },
     {
-      "rank": 51,
+      "rank": 52,
       "teamId": 16859154,
       "team": "bcs",
       "score": 0.53777,
@@ -467,7 +476,7 @@
       "members": []
     },
     {
-      "rank": 52,
+      "rank": 53,
       "teamId": 16928493,
       "team": "NJUersgogogo",
       "score": 0.44995,
@@ -476,7 +485,7 @@
       "members": []
     },
     {
-      "rank": 53,
+      "rank": 54,
       "teamId": 16571738,
       "team": "PNPL-OX",
       "score": 0.44441,
@@ -485,7 +494,7 @@
       "members": []
     },
     {
-      "rank": 54,
+      "rank": 55,
       "teamId": 16700843,
       "team": "kongxuan47",
       "score": 0.43935,
@@ -494,7 +503,7 @@
       "members": []
     },
     {
-      "rank": 55,
+      "rank": 56,
       "teamId": 16774953,
       "team": "Sia",
       "score": 0.43623,
@@ -503,7 +512,7 @@
       "members": []
     },
     {
-      "rank": 56,
+      "rank": 57,
       "teamId": 16606355,
       "team": "Salsinats",
       "score": 0.40325,
@@ -512,7 +521,7 @@
       "members": []
     },
     {
-      "rank": 57,
+      "rank": 58,
       "teamId": 16943902,
       "team": "Abhijith Pradeep",
       "score": 0.36723,
@@ -521,7 +530,7 @@
       "members": []
     },
     {
-      "rank": 58,
+      "rank": 59,
       "teamId": 16516410,
       "team": "Shuntaro Suzuki",
       "score": 0.354,
@@ -530,7 +539,7 @@
       "members": []
     },
     {
-      "rank": 59,
+      "rank": 60,
       "teamId": 16852752,
       "team": "liuyishj",
       "score": 0.33427,
@@ -539,7 +548,7 @@
       "members": []
     },
     {
-      "rank": 60,
+      "rank": 61,
       "teamId": 16782624,
       "team": "Jun Jie Li",
       "score": 0.31765,
@@ -548,7 +557,7 @@
       "members": []
     },
     {
-      "rank": 61,
+      "rank": 62,
       "teamId": 16550910,
       "team": "monte-carlo",
       "score": 0.28999,
@@ -557,21 +566,12 @@
       "members": []
     },
     {
-      "rank": 62,
+      "rank": 63,
       "teamId": 16726041,
       "team": "Bhargav Kowshik",
       "score": 0.28713,
       "submissions": 16,
       "lastSubmission": "2026-09-03T17:00:11.500Z",
-      "members": []
-    },
-    {
-      "rank": 63,
-      "teamId": 17035910,
-      "team": "yu_kuo14",
-      "score": 0.27725,
-      "submissions": 2,
-      "lastSubmission": "2026-10-05T14:33:40.987Z",
       "members": []
     },
     {
@@ -730,11 +730,11 @@
   ],
   "totals": {
     "teams": 80,
-    "submissions": 3240,
+    "submissions": 3268,
     "best": 0.76507,
     "median": 0.63219,
-    "p25": 0.31073,
+    "p25": 0.33011,
     "p75": 0.69652
   },
-  "fetchedAt": "2026-10-07T19:26:44.298Z"
+  "fetchedAt": "2026-10-07T23:41:50.049Z"
 }

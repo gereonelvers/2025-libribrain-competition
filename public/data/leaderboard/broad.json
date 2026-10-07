@@ -156,8 +156,8 @@
       "teamId": 17027053,
       "team": "Hojun Yang",
       "score": 0.60481,
-      "submissions": 9,
-      "lastSubmission": "2026-10-07T19:13:16.360Z",
+      "submissions": 12,
+      "lastSubmission": "2026-10-07T20:02:03.800Z",
       "members": []
     },
     {
@@ -173,9 +173,9 @@
       "rank": 19,
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "score": 0.58997,
-      "submissions": 38,
-      "lastSubmission": "2026-10-07T16:07:45.253Z",
+      "score": 0.59404,
+      "submissions": 39,
+      "lastSubmission": "2026-10-07T22:10:35.533Z",
       "members": []
     },
     {
@@ -361,11 +361,11 @@
   ],
   "totals": {
     "teams": 39,
-    "submissions": 1114,
+    "submissions": 1118,
     "best": 0.72915,
     "median": 0.58883,
     "p25": 0.24424,
     "p75": 0.66512
   },
-  "fetchedAt": "2026-10-07T19:26:44.298Z"
+  "fetchedAt": "2026-10-07T23:41:50.049Z"
 }

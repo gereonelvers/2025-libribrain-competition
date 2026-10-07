@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-10-07T19:25:54.107Z",
+  "updatedAt": "2026-10-07T23:41:20.241Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -330,8 +330,8 @@
     {
       "teamId": 17027053,
       "team": "Hojun Yang",
-      "submissions": 9,
-      "scoredSubmissions": 9,
+      "submissions": 12,
+      "scoredSubmissions": 12,
       "kagglePublicBest": 0.60481,
       "best": {
         "balacc@10": {
@@ -344,7 +344,7 @@
           "value": 0.8149693728897734
         }
       },
-      "lastSubmission": "2026-10-07T19:13:16.360Z",
+      "lastSubmission": "2026-10-07T20:02:03.800Z",
       "rank": 17
     },
     {
@@ -370,21 +370,21 @@
     {
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "submissions": 38,
-      "scoredSubmissions": 38,
-      "kagglePublicBest": 0.58997,
+      "submissions": 39,
+      "scoredSubmissions": 39,
+      "kagglePublicBest": 0.59404,
       "best": {
         "balacc@10": {
-          "value": 0.58997
+          "value": 0.59404
         },
         "balacc@1": {
-          "value": 0.19977030377030375
+          "value": 0.2003529248529248
         },
         "ovmi": {
           "value": 0.829581715888874
         }
       },
-      "lastSubmission": "2026-10-07T16:07:45.253Z",
+      "lastSubmission": "2026-10-07T22:10:35.533Z",
       "rank": 19
     },
     {
