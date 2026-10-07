@@ -93,8 +93,8 @@
       "teamId": 16697258,
       "team": "Jordan Griffith",
       "score": 0.72876,
-      "submissions": 157,
-      "lastSubmission": "2026-10-06T22:01:03.727Z",
+      "submissions": 161,
+      "lastSubmission": "2026-10-07T05:27:12.777Z",
       "members": []
     },
     {
@@ -111,8 +111,8 @@
       "teamId": 16779211,
       "team": "ottietjesesakfs",
       "score": 0.71799,
-      "submissions": 292,
-      "lastSubmission": "2026-10-06T06:15:53.547Z",
+      "submissions": 302,
+      "lastSubmission": "2026-10-07T02:21:02.540Z",
       "members": []
     },
     {
@@ -174,8 +174,8 @@
       "teamId": 16927504,
       "team": "cfw21w2",
       "score": 0.69838,
-      "submissions": 70,
-      "lastSubmission": "2026-10-07T00:01:53.467Z",
+      "submissions": 72,
+      "lastSubmission": "2026-10-07T04:13:11.040Z",
       "members": []
     },
     {
@@ -234,6 +234,15 @@
     },
     {
       "rank": 26,
+      "teamId": 17012370,
+      "team": "Dimitar Terziev",
+      "score": 0.66383,
+      "submissions": 54,
+      "lastSubmission": "2026-10-07T03:42:45.737Z",
+      "members": []
+    },
+    {
+      "rank": 27,
       "teamId": 16946702,
       "team": "Nova",
       "score": 0.66195,
@@ -242,21 +251,12 @@
       "members": []
     },
     {
-      "rank": 27,
+      "rank": 28,
       "teamId": 16754648,
       "team": "CWBZ",
       "score": 0.6601,
       "submissions": 33,
       "lastSubmission": "2026-09-03T08:48:42.743Z",
-      "members": []
-    },
-    {
-      "rank": 28,
-      "teamId": 17012370,
-      "team": "Dimitar Terziev",
-      "score": 0.65716,
-      "submissions": 53,
-      "lastSubmission": "2026-10-06T23:13:15.227Z",
       "members": []
     },
     {
@@ -291,8 +291,8 @@
       "teamId": 16969296,
       "team": "Viacheslav Fokin",
       "score": 0.65283,
-      "submissions": 16,
-      "lastSubmission": "2026-10-06T03:05:02.407Z",
+      "submissions": 17,
+      "lastSubmission": "2026-10-07T02:11:34.527Z",
       "members": []
     },
     {
@@ -690,15 +690,24 @@
       "submissions": 1,
       "lastSubmission": "2026-08-07T19:34:18.233Z",
       "members": []
+    },
+    {
+      "rank": 77,
+      "teamId": 16499485,
+      "team": "Michael Ibrahim",
+      "score": 0.14571,
+      "submissions": 1,
+      "lastSubmission": "2026-10-07T04:58:22.813Z",
+      "members": []
     }
   ],
   "totals": {
-    "teams": 76,
-    "submissions": 3141,
+    "teams": 77,
+    "submissions": 3160,
     "best": 0.76507,
-    "median": 0.63777,
-    "p25": 0.31073,
-    "p75": 0.69705
+    "median": 0.63277,
+    "p25": 0.28999,
+    "p75": 0.69661
   },
-  "fetchedAt": "2026-10-07T00:03:06.375Z"
+  "fetchedAt": "2026-10-07T06:00:16.912Z"
 }
