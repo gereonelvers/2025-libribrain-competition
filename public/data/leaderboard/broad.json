@@ -173,9 +173,9 @@
       "rank": 19,
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "score": 0.60132,
-      "submissions": 43,
-      "lastSubmission": "2026-10-08T15:05:25.847Z",
+      "score": 0.60359,
+      "submissions": 45,
+      "lastSubmission": "2026-10-08T20:09:09.490Z",
       "members": []
     },
     {
@@ -243,6 +243,15 @@
     },
     {
       "rank": 27,
+      "teamId": 16857946,
+      "team": "Irving Ernesto",
+      "score": 0.33161,
+      "submissions": 2,
+      "lastSubmission": "2026-10-08T22:07:47.500Z",
+      "members": []
+    },
+    {
+      "rank": 28,
       "teamId": 16686336,
       "team": "onlytry",
       "score": 0.33066,
@@ -251,7 +260,7 @@
       "members": []
     },
     {
-      "rank": 28,
+      "rank": 29,
       "teamId": 16580266,
       "team": "PNPL-MEG-XL-Baseline",
       "score": 0.31023,
@@ -260,16 +269,16 @@
       "members": []
     },
     {
-      "rank": 29,
-      "teamId": 16857946,
-      "team": "Irving Ernesto",
-      "score": 0.30301,
-      "submissions": 1,
-      "lastSubmission": "2026-10-08T07:58:36.590Z",
+      "rank": 30,
+      "teamId": 16885405,
+      "team": "InverseEncoder",
+      "score": 0.29706,
+      "submissions": 11,
+      "lastSubmission": "2026-10-08T19:30:28.330Z",
       "members": []
     },
     {
-      "rank": 30,
+      "rank": 31,
       "teamId": 16941809,
       "team": "InformaBook2",
       "score": 0.25463,
@@ -278,7 +287,7 @@
       "members": []
     },
     {
-      "rank": 31,
+      "rank": 32,
       "teamId": 16972643,
       "team": "Arthur12212003",
       "score": 0.24634,
@@ -287,21 +296,12 @@
       "members": []
     },
     {
-      "rank": 32,
+      "rank": 33,
       "teamId": 16943904,
       "team": "Abhijith Pradeep",
       "score": 0.24214,
       "submissions": 3,
       "lastSubmission": "2026-09-29T22:56:18.080Z",
-      "members": []
-    },
-    {
-      "rank": 33,
-      "teamId": 16885405,
-      "team": "InverseEncoder",
-      "score": 0.24159,
-      "submissions": 1,
-      "lastSubmission": "2026-10-07T11:06:12.747Z",
       "members": []
     },
     {
@@ -379,11 +379,11 @@
   ],
   "totals": {
     "teams": 41,
-    "submissions": 1176,
+    "submissions": 1189,
     "best": 0.72915,
     "median": 0.57298,
-    "p25": 0.24634,
+    "p25": 0.25463,
     "p75": 0.66294
   },
-  "fetchedAt": "2026-10-08T17:30:54.072Z"
+  "fetchedAt": "2026-10-08T22:29:05.509Z"
 }
