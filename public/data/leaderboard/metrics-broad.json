@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-10-09T09:32:10.521Z",
+  "updatedAt": "2026-10-09T16:35:47.491Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -50,8 +50,8 @@
     {
       "teamId": 17021305,
       "team": "dav0dea",
-      "submissions": 53,
-      "scoredSubmissions": 53,
+      "submissions": 55,
+      "scoredSubmissions": 55,
       "kagglePublicBest": 0.72367,
       "best": {
         "balacc@10": {
@@ -64,14 +64,14 @@
           "value": 1.1690200929635908
         }
       },
-      "lastSubmission": "2026-10-08T13:37:16.263Z",
+      "lastSubmission": "2026-10-09T15:36:06.980Z",
       "rank": 3
     },
     {
       "teamId": 17029831,
       "team": "Brain & AI",
-      "submissions": 52,
-      "scoredSubmissions": 52,
+      "submissions": 57,
+      "scoredSubmissions": 57,
       "kagglePublicBest": 0.72254,
       "best": {
         "balacc@10": {
@@ -84,7 +84,7 @@
           "value": 1.0231967840855825
         }
       },
-      "lastSubmission": "2026-10-09T08:41:00.533Z",
+      "lastSubmission": "2026-10-09T16:18:45.193Z",
       "rank": 4
     },
     {
@@ -610,21 +610,21 @@
     {
       "teamId": 16941809,
       "team": "InformaBook2",
-      "submissions": 17,
-      "scoredSubmissions": 17,
+      "submissions": 19,
+      "scoredSubmissions": 19,
       "kagglePublicBest": 0.25463,
       "best": {
         "balacc@10": {
           "value": 0.25463
         },
         "balacc@1": {
-          "value": 0.030936544936544935
+          "value": 0.032016909016909005
         },
         "ovmi": {
           "value": 0.14481682712405966
         }
       },
-      "lastSubmission": "2026-10-08T13:27:57.193Z",
+      "lastSubmission": "2026-10-09T14:31:00.270Z",
       "rank": 31
     },
     {
@@ -830,21 +830,21 @@
     {
       "teamId": 17067199,
       "team": "lfy111",
-      "submissions": 1,
-      "scoredSubmissions": 1,
-      "kagglePublicBest": 0.13961,
+      "submissions": 2,
+      "scoredSubmissions": 2,
+      "kagglePublicBest": 0.16188,
       "best": {
         "balacc@10": {
-          "value": 0.13961
+          "value": 0.16188
         },
         "balacc@1": {
-          "value": 0.018803418803418803
+          "value": 0.021025641025641025
         },
         "ovmi": {
           "value": 0.00731611613045251
         }
       },
-      "lastSubmission": "2026-10-09T08:20:32.483Z",
+      "lastSubmission": "2026-10-09T10:46:00.290Z",
       "rank": 42
     },
     {
