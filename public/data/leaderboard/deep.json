@@ -21,8 +21,8 @@
       "teamId": 16636411,
       "team": "Kim",
       "score": 0.74747,
-      "submissions": 154,
-      "lastSubmission": "2026-10-08T03:30:54.820Z",
+      "submissions": 155,
+      "lastSubmission": "2026-10-09T07:52:57.607Z",
       "members": []
     },
     {
@@ -30,8 +30,8 @@
       "teamId": 17021214,
       "team": "Brain & AI",
       "score": 0.74609,
-      "submissions": 56,
-      "lastSubmission": "2026-10-08T15:21:38.247Z",
+      "submissions": 57,
+      "lastSubmission": "2026-10-09T08:26:21.793Z",
       "members": []
     },
     {
@@ -56,9 +56,9 @@
       "rank": 6,
       "teamId": 17056936,
       "team": "orionleeke",
-      "score": 0.73231,
-      "submissions": 10,
-      "lastSubmission": "2026-10-08T07:33:15.207Z",
+      "score": 0.73298,
+      "submissions": 20,
+      "lastSubmission": "2026-10-09T03:34:02.750Z",
       "members": []
     },
     {
@@ -192,8 +192,8 @@
       "teamId": 17022110,
       "team": "linkP",
       "score": 0.69661,
-      "submissions": 45,
-      "lastSubmission": "2026-10-08T20:32:33.563Z",
+      "submissions": 46,
+      "lastSubmission": "2026-10-09T07:15:53.387Z",
       "members": []
     },
     {
@@ -210,8 +210,8 @@
       "teamId": 17012370,
       "team": "Dimitar Terziev",
       "score": 0.68883,
-      "submissions": 73,
-      "lastSubmission": "2026-10-09T02:14:09.883Z",
+      "submissions": 75,
+      "lastSubmission": "2026-10-09T09:11:47.260Z",
       "members": []
     },
     {
@@ -228,8 +228,8 @@
       "teamId": 17027046,
       "team": "Hojun Yang",
       "score": 0.68115,
-      "submissions": 26,
-      "lastSubmission": "2026-10-09T00:03:54.973Z",
+      "submissions": 29,
+      "lastSubmission": "2026-10-09T05:44:04.080Z",
       "members": []
     },
     {
@@ -246,8 +246,8 @@
       "teamId": 17035910,
       "team": "yu_kuo14",
       "score": 0.67925,
-      "submissions": 30,
-      "lastSubmission": "2026-10-09T00:40:41.357Z",
+      "submissions": 31,
+      "lastSubmission": "2026-10-09T04:31:13.867Z",
       "members": []
     },
     {
@@ -426,8 +426,8 @@
       "teamId": 16499485,
       "team": "Michael Ibrahim",
       "score": 0.62593,
-      "submissions": 6,
-      "lastSubmission": "2026-10-08T08:27:46.523Z",
+      "submissions": 7,
+      "lastSubmission": "2026-10-09T09:28:16.887Z",
       "members": []
     },
     {
@@ -624,8 +624,8 @@
       "teamId": 17050281,
       "team": "ashley Iannetti",
       "score": 0.24248,
-      "submissions": 15,
-      "lastSubmission": "2026-10-08T14:20:45.563Z",
+      "submissions": 19,
+      "lastSubmission": "2026-10-09T08:59:58.620Z",
       "members": []
     },
     {
@@ -757,11 +757,11 @@
   ],
   "totals": {
     "teams": 83,
-    "submissions": 3436,
+    "submissions": 3460,
     "best": 0.76507,
     "median": 0.63277,
     "p25": 0.32596,
     "p75": 0.69655
   },
-  "fetchedAt": "2026-10-09T02:29:41.925Z"
+  "fetchedAt": "2026-10-09T09:32:25.047Z"
 }
