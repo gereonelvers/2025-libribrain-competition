@@ -144,20 +144,20 @@
     },
     {
       "rank": 16,
+      "teamId": 17027053,
+      "team": "Hojun Yang",
+      "score": 0.62593,
+      "submissions": 31,
+      "lastSubmission": "2026-10-09T00:14:17.043Z",
+      "members": []
+    },
+    {
+      "rank": 17,
       "teamId": 16593214,
       "team": "MindLink",
       "score": 0.62151,
       "submissions": 22,
       "lastSubmission": "2026-08-24T09:13:57.743Z",
-      "members": []
-    },
-    {
-      "rank": 17,
-      "teamId": 17027053,
-      "team": "Hojun Yang",
-      "score": 0.61463,
-      "submissions": 22,
-      "lastSubmission": "2026-10-08T00:57:07.503Z",
       "members": []
     },
     {
@@ -173,9 +173,9 @@
       "rank": 19,
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "score": 0.60359,
-      "submissions": 45,
-      "lastSubmission": "2026-10-08T20:09:09.490Z",
+      "score": 0.60415,
+      "submissions": 46,
+      "lastSubmission": "2026-10-09T01:39:14.107Z",
       "members": []
     },
     {
@@ -379,11 +379,11 @@
   ],
   "totals": {
     "teams": 41,
-    "submissions": 1189,
+    "submissions": 1199,
     "best": 0.72915,
     "median": 0.57298,
     "p25": 0.25463,
     "p75": 0.66294
   },
-  "fetchedAt": "2026-10-08T22:29:05.509Z"
+  "fetchedAt": "2026-10-09T02:29:41.925Z"
 }
