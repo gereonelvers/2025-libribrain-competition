@@ -38,9 +38,9 @@
       "rank": 4,
       "teamId": 17029831,
       "team": "Brain & AI",
-      "score": 0.72254,
-      "submissions": 60,
-      "lastSubmission": "2026-10-09T18:31:01.827Z",
+      "score": 0.72282,
+      "submissions": 70,
+      "lastSubmission": "2026-10-10T13:16:25.600Z",
       "members": []
     },
     {
@@ -93,8 +93,8 @@
       "teamId": 16927415,
       "team": "cfw21w2",
       "score": 0.67261,
-      "submissions": 52,
-      "lastSubmission": "2026-10-10T03:58:14.077Z",
+      "submissions": 53,
+      "lastSubmission": "2026-10-10T09:53:15.940Z",
       "members": []
     },
     {
@@ -153,20 +153,20 @@
     },
     {
       "rank": 17,
+      "teamId": 17021316,
+      "team": "Dimitar Terziev",
+      "score": 0.62262,
+      "submissions": 64,
+      "lastSubmission": "2026-10-10T12:06:18.923Z",
+      "members": []
+    },
+    {
+      "rank": 18,
       "teamId": 16593214,
       "team": "MindLink",
       "score": 0.62151,
       "submissions": 22,
       "lastSubmission": "2026-08-24T09:13:57.743Z",
-      "members": []
-    },
-    {
-      "rank": 18,
-      "teamId": 17021316,
-      "team": "Dimitar Terziev",
-      "score": 0.61513,
-      "submissions": 59,
-      "lastSubmission": "2026-10-10T07:05:50.203Z",
       "members": []
     },
     {
@@ -288,6 +288,15 @@
     },
     {
       "rank": 32,
+      "teamId": 17075191,
+      "team": "Noah Ocepo",
+      "score": 0.30734,
+      "submissions": 2,
+      "lastSubmission": "2026-10-10T07:37:00.093Z",
+      "members": []
+    },
+    {
+      "rank": 33,
       "teamId": 16941809,
       "team": "InformaBook2",
       "score": 0.25463,
@@ -296,7 +305,7 @@
       "members": []
     },
     {
-      "rank": 33,
+      "rank": 34,
       "teamId": 16972643,
       "team": "Arthur12212003",
       "score": 0.24634,
@@ -305,7 +314,7 @@
       "members": []
     },
     {
-      "rank": 34,
+      "rank": 35,
       "teamId": 16943904,
       "team": "Abhijith Pradeep",
       "score": 0.24214,
@@ -314,7 +323,7 @@
       "members": []
     },
     {
-      "rank": 35,
+      "rank": 36,
       "teamId": 16571739,
       "team": "PNPL-OX",
       "score": 0.24063,
@@ -323,7 +332,7 @@
       "members": []
     },
     {
-      "rank": 36,
+      "rank": 37,
       "teamId": 17029893,
       "team": "Akbar Permana",
       "score": 0.23285,
@@ -332,7 +341,7 @@
       "members": []
     },
     {
-      "rank": 37,
+      "rank": 38,
       "teamId": 16571080,
       "team": "SajanKr",
       "score": 0.23089,
@@ -341,7 +350,7 @@
       "members": []
     },
     {
-      "rank": 38,
+      "rank": 39,
       "teamId": 17060835,
       "team": "Rohit Ravi",
       "score": 0.22658,
@@ -350,7 +359,7 @@
       "members": []
     },
     {
-      "rank": 39,
+      "rank": 40,
       "teamId": 16986637,
       "team": "Ethan",
       "score": 0.22637,
@@ -359,7 +368,7 @@
       "members": []
     },
     {
-      "rank": 40,
+      "rank": 41,
       "teamId": 16726042,
       "team": "Bhargav Kowshik",
       "score": 0.21871,
@@ -368,7 +377,7 @@
       "members": []
     },
     {
-      "rank": 41,
+      "rank": 42,
       "teamId": 16580487,
       "team": "Pratik Pattanaik",
       "score": 0.20141,
@@ -377,7 +386,7 @@
       "members": []
     },
     {
-      "rank": 42,
+      "rank": 43,
       "teamId": 17067199,
       "team": "lfy111",
       "score": 0.16188,
@@ -387,12 +396,12 @@
     }
   ],
   "totals": {
-    "teams": 42,
-    "submissions": 1284,
+    "teams": 43,
+    "submissions": 1302,
     "best": 0.73235,
-    "median": 0.5633,
-    "p25": 0.26853,
-    "p75": 0.66621
+    "median": 0.55362,
+    "p25": 0.28099,
+    "p75": 0.66512
   },
-  "fetchedAt": "2026-10-10T07:08:08.297Z"
+  "fetchedAt": "2026-10-10T13:42:16.852Z"
 }
