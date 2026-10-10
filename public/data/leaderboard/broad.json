@@ -11,9 +11,9 @@
       "rank": 1,
       "teamId": 16692669,
       "team": "Varshith Madishetty",
-      "score": 0.72915,
-      "submissions": 191,
-      "lastSubmission": "2026-09-29T03:10:35.467Z",
+      "score": 0.73235,
+      "submissions": 201,
+      "lastSubmission": "2026-10-10T03:55:21.363Z",
       "members": []
     },
     {
@@ -93,8 +93,8 @@
       "teamId": 16927415,
       "team": "cfw21w2",
       "score": 0.67261,
-      "submissions": 51,
-      "lastSubmission": "2026-10-07T08:42:12.867Z",
+      "submissions": 52,
+      "lastSubmission": "2026-10-10T03:58:14.077Z",
       "members": []
     },
     {
@@ -162,20 +162,20 @@
     },
     {
       "rank": 18,
+      "teamId": 17021316,
+      "team": "Dimitar Terziev",
+      "score": 0.61513,
+      "submissions": 59,
+      "lastSubmission": "2026-10-10T07:05:50.203Z",
+      "members": []
+    },
+    {
+      "rank": 19,
       "teamId": 17042550,
       "team": "MohamedII",
       "score": 0.6129,
       "submissions": 6,
       "lastSubmission": "2026-10-07T09:45:46.507Z",
-      "members": []
-    },
-    {
-      "rank": 19,
-      "teamId": 17021316,
-      "team": "Dimitar Terziev",
-      "score": 0.60415,
-      "submissions": 54,
-      "lastSubmission": "2026-10-09T22:46:18.167Z",
       "members": []
     },
     {
@@ -243,6 +243,15 @@
     },
     {
       "rank": 27,
+      "teamId": 16928258,
+      "team": "FOyEE2005",
+      "score": 0.3695,
+      "submissions": 5,
+      "lastSubmission": "2026-10-10T05:12:18.283Z",
+      "members": []
+    },
+    {
+      "rank": 28,
       "teamId": 16606357,
       "team": "Salsinats",
       "score": 0.35416,
@@ -251,21 +260,12 @@
       "members": []
     },
     {
-      "rank": 28,
+      "rank": 29,
       "teamId": 16857946,
       "team": "Irving Ernesto",
       "score": 0.35039,
       "submissions": 3,
       "lastSubmission": "2026-10-09T03:43:43.147Z",
-      "members": []
-    },
-    {
-      "rank": 29,
-      "teamId": 16928258,
-      "team": "FOyEE2005",
-      "score": 0.33859,
-      "submissions": 4,
-      "lastSubmission": "2026-10-09T19:39:40.893Z",
       "members": []
     },
     {
@@ -388,11 +388,11 @@
   ],
   "totals": {
     "teams": 42,
-    "submissions": 1267,
-    "best": 0.72915,
+    "submissions": 1284,
+    "best": 0.73235,
     "median": 0.5633,
     "p25": 0.26853,
     "p75": 0.66621
   },
-  "fetchedAt": "2026-10-10T01:06:58.404Z"
+  "fetchedAt": "2026-10-10T07:08:08.297Z"
 }
