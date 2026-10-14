@@ -30,8 +30,8 @@
       "teamId": 17029831,
       "team": "Brain & AI",
       "score": 0.72707,
-      "submissions": 100,
-      "lastSubmission": "2026-10-13T16:22:32.717Z",
+      "submissions": 110,
+      "lastSubmission": "2026-10-14T08:09:36.247Z",
       "members": []
     },
     {
@@ -65,9 +65,9 @@
       "rank": 7,
       "teamId": 17022301,
       "team": "linkP",
-      "score": 0.70925,
-      "submissions": 70,
-      "lastSubmission": "2026-10-14T03:39:41.050Z",
+      "score": 0.70948,
+      "submissions": 71,
+      "lastSubmission": "2026-10-14T04:07:02.510Z",
       "members": []
     },
     {
@@ -102,8 +102,8 @@
       "teamId": 17027053,
       "team": "Hojun Yang",
       "score": 0.67858,
-      "submissions": 78,
-      "lastSubmission": "2026-10-14T03:01:36.420Z",
+      "submissions": 82,
+      "lastSubmission": "2026-10-14T08:11:03.233Z",
       "members": []
     },
     {
@@ -126,6 +126,15 @@
     },
     {
       "rank": 14,
+      "teamId": 17075191,
+      "team": "Noah Ocepo",
+      "score": 0.67064,
+      "submissions": 27,
+      "lastSubmission": "2026-10-14T06:51:19.090Z",
+      "members": []
+    },
+    {
+      "rank": 15,
       "teamId": 16661195,
       "team": "JovanaLab",
       "score": 0.6673,
@@ -134,7 +143,7 @@
       "members": []
     },
     {
-      "rank": 15,
+      "rank": 16,
       "teamId": 16981137,
       "team": "Karahan Yılmazer",
       "score": 0.66294,
@@ -143,7 +152,7 @@
       "members": []
     },
     {
-      "rank": 16,
+      "rank": 17,
       "teamId": 16866088,
       "team": "NeuroMTEC",
       "score": 0.64336,
@@ -152,7 +161,7 @@
       "members": []
     },
     {
-      "rank": 17,
+      "rank": 18,
       "teamId": 16607557,
       "team": "Brain King",
       "score": 0.64291,
@@ -161,21 +170,12 @@
       "members": []
     },
     {
-      "rank": 18,
+      "rank": 19,
       "teamId": 16680182,
       "team": "Arnauya",
       "score": 0.64001,
       "submissions": 74,
       "lastSubmission": "2026-08-22T12:49:04.370Z",
-      "members": []
-    },
-    {
-      "rank": 19,
-      "teamId": 17075191,
-      "team": "Noah Ocepo",
-      "score": 0.63833,
-      "submissions": 23,
-      "lastSubmission": "2026-10-13T00:06:44.530Z",
       "members": []
     },
     {
@@ -282,8 +282,8 @@
       "teamId": 16928258,
       "team": "FOyEE2005",
       "score": 0.38044,
-      "submissions": 17,
-      "lastSubmission": "2026-10-13T14:13:17.913Z",
+      "submissions": 18,
+      "lastSubmission": "2026-10-14T05:45:01.940Z",
       "members": []
     },
     {
@@ -336,12 +336,21 @@
       "teamId": 16941809,
       "team": "InformaBook2",
       "score": 0.25463,
-      "submissions": 20,
-      "lastSubmission": "2026-10-13T22:29:36.873Z",
+      "submissions": 21,
+      "lastSubmission": "2026-10-14T07:29:47.053Z",
       "members": []
     },
     {
       "rank": 38,
+      "teamId": 16499483,
+      "team": "Michael Ibrahim",
+      "score": 0.25446,
+      "submissions": 6,
+      "lastSubmission": "2026-10-14T06:50:48.237Z",
+      "members": []
+    },
+    {
+      "rank": 39,
       "teamId": 16972643,
       "team": "Arthur12212003",
       "score": 0.24634,
@@ -350,7 +359,7 @@
       "members": []
     },
     {
-      "rank": 39,
+      "rank": 40,
       "teamId": 16943904,
       "team": "Abhijith Pradeep",
       "score": 0.24214,
@@ -359,21 +368,12 @@
       "members": []
     },
     {
-      "rank": 40,
+      "rank": 41,
       "teamId": 16571739,
       "team": "PNPL-OX",
       "score": 0.24063,
       "submissions": 1,
       "lastSubmission": "2026-07-19T18:24:47.203Z",
-      "members": []
-    },
-    {
-      "rank": 41,
-      "teamId": 16499483,
-      "team": "Michael Ibrahim",
-      "score": 0.23468,
-      "submissions": 4,
-      "lastSubmission": "2026-10-13T06:38:38.367Z",
       "members": []
     },
     {
@@ -451,11 +451,11 @@
   ],
   "totals": {
     "teams": 49,
-    "submissions": 1580,
+    "submissions": 1603,
     "best": 0.73543,
     "median": 0.57298,
     "p25": 0.25463,
     "p75": 0.67261
   },
-  "fetchedAt": "2026-10-14T03:54:24.126Z"
+  "fetchedAt": "2026-10-14T09:20:23.235Z"
 }
