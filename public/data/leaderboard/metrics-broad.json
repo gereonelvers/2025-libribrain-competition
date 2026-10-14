@@ -1,6 +1,6 @@
 {
   "competition": "pnpl-competition-2026-broad",
-  "updatedAt": "2026-10-14T09:20:00.394Z",
+  "updatedAt": "2026-10-14T14:36:01.892Z",
   "metrics": [
     "balacc@10",
     "balacc@1",
@@ -30,8 +30,8 @@
     {
       "teamId": 16692669,
       "team": "Varshith Madishetty",
-      "submissions": 209,
-      "scoredSubmissions": 208,
+      "submissions": 218,
+      "scoredSubmissions": 217,
       "kagglePublicBest": 0.73235,
       "best": {
         "balacc@10": {
@@ -44,7 +44,7 @@
           "value": 1.1065303436010845
         }
       },
-      "lastSubmission": "2026-10-11T04:34:53.130Z",
+      "lastSubmission": "2026-10-14T14:28:42.957Z",
       "rank": 2
     },
     {
@@ -208,6 +208,26 @@
       "rank": 10
     },
     {
+      "teamId": 17099880,
+      "team": "Artem Blanar",
+      "submissions": 3,
+      "scoredSubmissions": 3,
+      "kagglePublicBest": 0.68013,
+      "best": {
+        "balacc@10": {
+          "value": 0.68013
+        },
+        "balacc@1": {
+          "value": 0.20212261812261814
+        },
+        "ovmi": {
+          "value": 0.873566350647352
+        }
+      },
+      "lastSubmission": "2026-10-14T13:50:33.130Z",
+      "rank": 11
+    },
+    {
       "teamId": 17027053,
       "team": "Hojun Yang",
       "submissions": 82,
@@ -225,26 +245,6 @@
         }
       },
       "lastSubmission": "2026-10-14T08:11:03.233Z",
-      "rank": 11
-    },
-    {
-      "teamId": 17099880,
-      "team": "Artem Blanar",
-      "submissions": 1,
-      "scoredSubmissions": 1,
-      "kagglePublicBest": 0.67704,
-      "best": {
-        "balacc@10": {
-          "value": 0.67704
-        },
-        "balacc@1": {
-          "value": 0.1988320013320013
-        },
-        "ovmi": {
-          "value": 0.8650745285619214
-        }
-      },
-      "lastSubmission": "2026-10-14T02:09:41.723Z",
       "rank": 12
     },
     {
@@ -410,8 +410,8 @@
     {
       "teamId": 17021316,
       "team": "Dimitar Terziev",
-      "submissions": 94,
-      "scoredSubmissions": 94,
+      "submissions": 96,
+      "scoredSubmissions": 96,
       "kagglePublicBest": 0.63097,
       "best": {
         "balacc@10": {
@@ -424,7 +424,7 @@
           "value": 0.9453713628601627
         }
       },
-      "lastSubmission": "2026-10-13T16:10:30.173Z",
+      "lastSubmission": "2026-10-14T12:45:06.717Z",
       "rank": 21
     },
     {
@@ -630,8 +630,8 @@
     {
       "teamId": 17043406,
       "team": "Yan Hanwei",
-      "submissions": 4,
-      "scoredSubmissions": 4,
+      "submissions": 5,
+      "scoredSubmissions": 5,
       "kagglePublicBest": 0.37058,
       "best": {
         "balacc@10": {
@@ -644,7 +644,7 @@
           "value": 0.43182679718105904
         }
       },
-      "lastSubmission": "2026-10-13T11:37:27.387Z",
+      "lastSubmission": "2026-10-14T14:18:00.937Z",
       "rank": 32
     },
     {
@@ -750,8 +750,8 @@
     {
       "teamId": 16499483,
       "team": "Michael Ibrahim",
-      "submissions": 6,
-      "scoredSubmissions": 6,
+      "submissions": 7,
+      "scoredSubmissions": 7,
       "kagglePublicBest": 0.25446,
       "best": {
         "balacc@10": {
@@ -764,7 +764,7 @@
           "value": 0.15639555802033747
         }
       },
-      "lastSubmission": "2026-10-14T06:50:48.237Z",
+      "lastSubmission": "2026-10-14T12:42:06.537Z",
       "rank": 38
     },
     {
