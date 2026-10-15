@@ -20,9 +20,9 @@
       "rank": 2,
       "teamId": 16593214,
       "team": "MindLink",
-      "score": 0.73298,
-      "submissions": 32,
-      "lastSubmission": "2026-10-15T13:43:32.783Z",
+      "score": 0.73445,
+      "submissions": 33,
+      "lastSubmission": "2026-10-15T16:58:20.790Z",
       "members": []
     },
     {
@@ -30,8 +30,8 @@
       "teamId": 16692669,
       "team": "Varshith Madishetty",
       "score": 0.73235,
-      "submissions": 218,
-      "lastSubmission": "2026-10-14T14:28:42.957Z",
+      "submissions": 228,
+      "lastSubmission": "2026-10-15T17:24:51.917Z",
       "members": []
     },
     {
@@ -120,8 +120,8 @@
       "teamId": 16885405,
       "team": "InverseEncoder",
       "score": 0.69957,
-      "submissions": 73,
-      "lastSubmission": "2026-10-15T11:06:13.413Z",
+      "submissions": 74,
+      "lastSubmission": "2026-10-15T16:20:26.800Z",
       "members": []
     },
     {
@@ -362,9 +362,9 @@
       "rank": 40,
       "teamId": 16499483,
       "team": "Michael Ibrahim",
-      "score": 0.25446,
-      "submissions": 7,
-      "lastSubmission": "2026-10-14T12:42:06.537Z",
+      "score": 0.25603,
+      "submissions": 8,
+      "lastSubmission": "2026-10-15T15:31:59.433Z",
       "members": []
     },
     {
@@ -478,11 +478,11 @@
   ],
   "totals": {
     "teams": 52,
-    "submissions": 1791,
+    "submissions": 1804,
     "best": 0.73543,
     "median": 0.60512,
-    "p25": 0.25829,
+    "p25": 0.25868,
     "p75": 0.6919
   },
-  "fetchedAt": "2026-10-15T15:01:23.502Z"
+  "fetchedAt": "2026-10-15T19:07:58.410Z"
 }
